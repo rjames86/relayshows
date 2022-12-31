@@ -19,7 +19,7 @@ class FeedInfo:
         return cls(
             name,
             xml.itunes_episode,
-            int(xml.itunes_duration)
+            cls.get_duration(xml.itunes_duration)
         )
 
     @property
@@ -33,6 +33,13 @@ class FeedInfo:
             seconds=self.seconds
         )
 
+    @staticmethod
+    def get_duration(duration):
+        if duration.isnumeric():
+            return int(duration)
+        else:
+            return FeedInfo.get_seconds_from_string(duration)
+
     def convert(self, seconds):
         seconds = seconds % (24 * 3600)
         hour = seconds // 3600
@@ -41,6 +48,12 @@ class FeedInfo:
         seconds %= 60
 
         return "%d:%02d:%02d" % (hour, minutes, seconds)
+
+    @staticmethod
+    def get_seconds_from_string(time_str):
+        """Get seconds from time."""
+        h, m, s = time_str.split(':')
+        return int(h) * 3600 + int(m) * 60 + int(s)
 
     def __repr__(self):
         return 'FeedInfo<name=%s, episode=%s, duration=%s>' % (self.name, self.episode, self.duration)
