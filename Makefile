@@ -1,4 +1,4 @@
-PYTHON=/Users/rjames/Desktop/relay/venv/bin/python
+PYTHON=${HOME}/Desktop/relay/venv/bin/python
 GIT=/opt/homebrew/bin/git
 
 run:
