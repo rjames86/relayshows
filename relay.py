@@ -59,7 +59,7 @@ class FeedInfo:
         return 'FeedInfo<name=%s, episode=%s, duration=%s>' % (self.name, self.episode, self.duration)
 
     def __str__(self):
-        return "%s - %s (%s)" % (self.name, self.episode, self.duration)
+        return "Episode %s (%s)" % (self.episode, self.duration)
 
 
 class FeedInfos(list):
