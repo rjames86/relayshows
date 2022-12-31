@@ -4,7 +4,7 @@ This shows the normal distribution for each show on the network
 
 ## 20 Macs for 2020
 
-![](images/20 Macs for 2020.png)
+![](images/20%20Macs%20for%202020.png)
 
 ## Adapt
 
@@ -32,7 +32,7 @@ This shows the normal distribution for each show on the network
 
 ## CMD Space
 
-![](images/CMD Space.png)
+![](images/CMD%20Space.png)
 
 ## Canvas
 
@@ -84,7 +84,7 @@ This shows the normal distribution for each show on the network
 
 ## Less Than or Equal
 
-![](images/Less Than or Equal.png)
+![](images/Less%20Than%20or%20Equal.png)
 
 ## Liftoff
 
@@ -92,11 +92,11 @@ This shows the normal distribution for each show on the network
 
 ## Mac Power Users
 
-![](images/Mac Power Users.png)
+![](images/Mac%20Power%20Users.png)
 
 ## Make Do
 
-![](images/Make Do.png)
+![](images/Make%20Do.png)
 
 ## Material
 
@@ -104,7 +104,7 @@ This shows the normal distribution for each show on the network
 
 ## Mixed Feelings
 
-![](images/Mixed Feelings.png)
+![](images/Mixed%20Feelings.png)
 
 ## Originality
 
@@ -120,7 +120,7 @@ This shows the normal distribution for each show on the network
 
 ## Playing for Fun
 
-![](images/Playing for Fun.png)
+![](images/Playing%20for%20Fun.png)
 
 ## Presentable
 
@@ -132,7 +132,7 @@ This shows the normal distribution for each show on the network
 
 ## Reconcilable Differences
 
-![](images/Reconcilable Differences.png)
+![](images/Reconcilable%20Differences.png)
 
 ## Remaster
 
@@ -152,31 +152,31 @@ This shows the normal distribution for each show on the network
 
 ## The Backmarkers
 
-![](images/The Backmarkers.png)
+![](images/The%20Backmarkers.png)
 
 ## The Pen Addict
 
-![](images/The Pen Addict.png)
+![](images/The%20Pen%20Addict.png)
 
 ## The Prompt
 
-![](images/The Prompt.png)
+![](images/The%20Prompt.png)
 
 ## The Test Drivers
 
-![](images/The Test Drivers.png)
+![](images/The%20Test%20Drivers.png)
 
 ## Thoroughly Considered
 
-![](images/Thoroughly Considered.png)
+![](images/Thoroughly%20Considered.png)
 
 ## Top Four
 
-![](images/Top Four.png)
+![](images/Top%20Four.png)
 
 ## Under the Radar
 
-![](images/Under the Radar.png)
+![](images/Under%20the%20Radar.png)
 
 ## Ungeniused
 
