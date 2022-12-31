@@ -9,9 +9,10 @@ EXCLUDE_LIST = ['B-Sides', 'Departures']
 
 
 class FeedInfo:
-    def __init__(self, name, episode, seconds):
+    def __init__(self, name, episode, episode_title, seconds):
         self.name = name
         self.episode = episode
+        self.episode_title = episode_title
         self.seconds = seconds
 
     @classmethod
@@ -19,6 +20,7 @@ class FeedInfo:
         return cls(
             name,
             xml.itunes_episode,
+            xml.itunes_title,
             cls.get_duration(xml.itunes_duration)
         )
 
@@ -59,7 +61,7 @@ class FeedInfo:
         return 'FeedInfo<name=%s, episode=%s, duration=%s>' % (self.name, self.episode, self.duration)
 
     def __str__(self):
-        return "Episode %s (%s)" % (self.episode, self.duration)
+        return "Episode %s: %s (%s)" % (self.episode, self.episode_title, self.duration)
 
 
 class FeedInfos(list):
