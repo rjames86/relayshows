@@ -28,7 +28,7 @@ jobs:
     - name: Run script
       run: make run/action
     - name: Commit changes
-      run:           
+      run: |           
         git config --global user.name github-actions
         git config --global user.email github-actions@github.com
         git add .
