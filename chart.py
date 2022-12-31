@@ -43,7 +43,7 @@ def chart_show(show):
     p = norm.pdf(x, mu, std)
 
     ax.plot(x, p, 'k', linewidth=2)
-    title = "{}. Fit Values: {} and {}".format(
+    title = "{}. Mean {} Average {}".format(
         show.title(), convert(mu), convert(std))
     ax.set_title(title)
 

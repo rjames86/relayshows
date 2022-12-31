@@ -68,6 +68,9 @@ class FeedInfos(list):
     def title(self):
         return self[0].name
 
+    def sorted(self):
+        return sorted(self, key=lambda s: s[0].name)
+
     def get_longest_episode(self):
         return max(self.flatten(), key=lambda s: s.duration)
 
