@@ -6,6 +6,9 @@ NOW=`/bin/date`
 run:
 	${PYTHON} main.py
 
+run/action:
+	python main.py
+
 upload: run
 	${GIT} commit -am "Updates - ${NOW}"
 	${GIT} push 
