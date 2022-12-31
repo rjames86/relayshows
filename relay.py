@@ -120,11 +120,4 @@ def get_data():
         if show_info is not None:
             all_episodes.append(show_info)
 
-    print(all_episodes.get_longest_episode(),
-          all_episodes.get_shortest_episode())
-
-    for show in all_episodes:
-        print(show.get_longest_episode(),
-              show.get_shortest_episode())
-
     return all_episodes
