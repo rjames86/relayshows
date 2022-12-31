@@ -1,6 +1,6 @@
 # Relay Shows
 
-This shows the normal distribution for each show on the network
+This displays the normal distribution for each show on the network
 
 **Network's longest episode:** Cortex - Episode 135: State of the Apps 2023 (3:22:00)
 
