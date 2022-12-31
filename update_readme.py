@@ -5,10 +5,14 @@ import re
 def update_readme(all_episodes):
     TEMPLATE = """# Relay Shows
 
-This shows the normal distribution for each show on the network
+This displays the normal distribution for each show on the network"""
 
-## Table of Contents:"""
+    TEMPLATE += "\n\n**Network's longest episode:** {}".format(
+        all_episodes.get_longest_episode().format())
+    TEMPLATE += "\n\n**Network's shortest episode:** {}".format(
+        all_episodes.get_shortest_episode().format())
 
+    TEMPLATE += "\n\n## Table of Contents:"
     for show in all_episodes.sorted():
         url = re.sub(r'[^A-Za-z ]', '', show.title()).replace(' ', '-')
 

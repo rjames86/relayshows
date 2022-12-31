@@ -2,6 +2,10 @@
 
 This shows the normal distribution for each show on the network
 
+**Network's longest episode:** Cortex - Episode 135: State of the Apps 2023 (3:22:00)
+
+**Network's shortest episode:** Ungeniused - Episode 173: Seven Swans A-swimming (0:00:12)
+
 ## Table of Contents:
 - [20 Macs for 2020](#-Macs-for-)  
 - [Adapt](#Adapt)  

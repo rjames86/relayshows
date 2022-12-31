@@ -57,6 +57,9 @@ class FeedInfo:
         h, m, s = time_str.split(':')
         return int(h) * 3600 + int(m) * 60 + int(s)
 
+    def format(self):
+        return "{} - {}".format(self.name, str(self))
+
     def __repr__(self):
         return 'FeedInfo<name=%s, episode=%s, duration=%s>' % (self.name, self.episode, self.duration)
 
