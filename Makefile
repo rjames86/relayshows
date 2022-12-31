@@ -5,6 +5,7 @@ run:
 	${PYTHON} main.py
 
 upload: run
-	${GIT} commit -am "Updates - ${date}"
+	NOW=$(date)
+	${GIT} commit -am "Updates - $(NOW)"
 	${GIT} push 
 	
