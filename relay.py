@@ -86,16 +86,6 @@ def get_all_shows(soup):
     return [BASE_URL + href for href in hrefs]
 
 
-def output_as_csv(shows):
-    with open('/Users/rjames/Desktop/shows.csv', 'w') as csvfile:
-        fieldnames = ['name', 'episode', 'seconds']
-        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-
-        writer.writeheader()
-        for episode in shows.flatten():
-            writer.writerow(episode.asdict())
-
-
 def get_data():
     content = requests.get('https://www.relay.fm/shows').content
 
