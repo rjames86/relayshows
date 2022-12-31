@@ -18,7 +18,7 @@ This displays the normal distribution for each show on the network"""
             TEMPLATE += "\n\t- [{0}](#{1})  ".format(show.title(), url)
 
     for network in all_networks:
-        TEMPLATE += "\n\n##{}  ".format(network.name)
+        TEMPLATE += "\n\n## {}  ".format(network.name)
 
         TEMPLATE += "\n\n**Network's longest episode:** {}".format(
             network.show_durations.get_longest_episode().format())
