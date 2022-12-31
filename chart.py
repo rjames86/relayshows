@@ -1,6 +1,7 @@
 import numpy as np
 from scipy.stats import norm
 import matplotlib.pyplot as plt
+import os
 
 from matplotlib.ticker import FuncFormatter
 
@@ -46,5 +47,8 @@ def chart_show(show):
     title = "{}. Mean {} Stdev {}".format(
         show.title(), convert(mu), convert(std))
     ax.set_title(title)
+
+    if not os.path.exists('images'):
+        os.mkdir('images')
 
     fig.savefig('images/' + show.title() + '.png')
