@@ -1,6 +1,8 @@
 # Podcast Network Stats
 
-This displays the normal distribution for each show on the network
+*Last updated on:* 2023-01-01 00:37
+
+This displays the normal distribution for each show on the network. Data will be updated daily at midnight.
 
 ## Table of Contents:
 - [Relay.fm](#Relayfm)  
