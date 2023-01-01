@@ -44,7 +44,7 @@ This displays the normal distribution for each show on the network. Data will be
 Visit each individual network's pages for show stats:  """.format(now=now.strftime("%Y-%m-%d %H:%M"))
 
     for network in all_networks:
-        TEMPLATE += "\n\n- [{}](networks/{}.md)".format(network.name, network.name.upper())
+        TEMPLATE += "\n\n- [{}](networks/{}.md)".format(network.name, quote(network.name.upper()))
         create_network_page(network)
 
     # TEMPLATE += "\n\n## Table of Contents:"
