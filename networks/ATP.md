@@ -12,4 +12,4 @@
 **Longest episode:** Episode 384 Equal Emphasis (3:15:01)  
 **Shortest episode:** Episode 1 iPhone Plus (0:14:35)  
 
-![](images/Accidental%20Tech%20Podcast.png)
+![](../images/Accidental%20Tech%20Podcast.png)
