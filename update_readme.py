@@ -1,11 +1,15 @@
 from urllib.parse import quote
 import re
+from datetime import datetime
 
 
 def update_readme(all_networks):
+    now = datetime.now()
     TEMPLATE = """# Podcast Network Stats
 
-This displays the normal distribution for each show on the network"""
+*Last updated on:* {now}
+
+This displays the normal distribution for each show on the network. Data will be updated daily at midnight.""".format(now=now.strftime("%Y-%m-%d %H:%M"))
 
     TEMPLATE += "\n\n## Table of Contents:"
     for network in all_networks:
