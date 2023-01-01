@@ -31,7 +31,7 @@ class PodcastNetwork:
 
 
 all_networks = [
-    PodcastNetwork('Relay.fm', get_relay_data()),
+    PodcastNetwork('Relay FM', get_relay_data()),
     PodcastNetwork('ATP', ['https://cdn.atp.fm/rss/public']),
     PodcastNetwork('Incomparable', get_incomperable_data()),
 ]
