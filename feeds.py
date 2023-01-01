@@ -17,9 +17,14 @@ class FeedInfo:
         else:
             title = xml.title
 
+        if xml.get('itunes_episode'):
+            episode_number = xml.itunes_episode
+        else:
+            episode_number = None
+
         return cls(
             name,
-            xml.itunes_episode,
+            episode_number,
             title,
             cls.get_duration(xml.itunes_duration)
         )
@@ -54,7 +59,12 @@ class FeedInfo:
     @staticmethod
     def get_seconds_from_string(time_str):
         """Get seconds from time."""
-        h, m, s = time_str.split(':')
+        time_parts = time_str.split(':')
+        if len(time_parts) == 3:
+            h, m, s = time_parts
+        else:
+            h = 0
+            m, s = time_parts
         return int(h) * 3600 + int(m) * 60 + int(s)
 
     def format(self):
@@ -64,7 +74,12 @@ class FeedInfo:
         return 'FeedInfo<name=%s, episode=%s, duration=%s>' % (self.name, self.episode, self.duration)
 
     def __str__(self):
-        return "Episode %s: %s (%s)" % (self.episode, self.episode_title, self.duration)
+        to_return = ""
+        if self.episode is not None:
+            to_return += "Episode {} ".format(self.episode)
+        to_return += "%s (%s)" % (self.episode_title, self.duration)
+
+        return to_return
 
 
 class FeedInfos(list):
@@ -92,6 +107,11 @@ def get_show_episode_durations(feed_url):
     title = feed.channel.title
     if title in EPISODE_EXCLUDE_LIST:
         return None
+
+    if len(feed.entries) == 0:
+        return None
+
     for episode in feed.entries:
         feed_infos.append(FeedInfo.parse(title, episode))
+
     return feed_infos

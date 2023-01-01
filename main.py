@@ -1,5 +1,6 @@
 from feeds import FeedInfos, get_show_episode_durations
-from relay import get_data
+from relay import get_data as get_relay_data
+from incomperable import get_data as get_incomperable_data
 from chart import chart_show
 from update_readme import update_readme
 
@@ -30,8 +31,9 @@ class PodcastNetwork:
 
 
 all_networks = [
-    PodcastNetwork('Relay.fm', get_data()),
+    PodcastNetwork('Relay.fm', get_relay_data()),
     PodcastNetwork('ATP', ['https://cdn.atp.fm/rss/public']),
+    PodcastNetwork('Incomparable', get_incomperable_data()),
 ]
 
 for network in all_networks:
