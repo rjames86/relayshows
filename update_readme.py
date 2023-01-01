@@ -23,7 +23,7 @@ def create_network_page(network):
             show.get_longest_episode())
         TEMPLATE += "**Shortest episode:** {}  \n\n".format(
             show.get_shortest_episode())
-        TEMPLATE += "![](images/{}.png)".format(quote(show.title()))
+        TEMPLATE += "![](../images/{}.png)".format(quote(show.title()))
 
     with open('networks/{}.md'.format(network.name.upper()), 'w') as f:
         f.write(TEMPLATE)
