@@ -231,7 +231,7 @@
 ### Monty and Rhias vs. Movies
 
 **Longest episode:** Episode 8 Atolladero (0:37:45)  
-**Shortest episode:** Episode 6 The Blood of Heroes (0:19:06)  
+**Shortest episode:** Episode 25 M3GAN (0:12:06)  
 
 ![](../images/Monty%20and%20Rhias%20vs.%20Movies.png)
 
