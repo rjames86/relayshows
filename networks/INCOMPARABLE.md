@@ -41,6 +41,7 @@
 - [Somehow I Manage (Rewatching "The Office")](#Somehow-I-Manage-Rewatching-The-Office)  
 - [Sophomore Lit](#Sophomore-Lit)  
 - [TeeVee](#TeeVee)  
+- [The Cast of Us: HBO's "The Last Of Us" Recapped](#The-Cast-of-Us-HBOs-The-Last-Of-Us-Recapped)  
 - [The Incomparable Game Show](#The-Incomparable-Game-Show)  
 - [The Incomparable Mothership](#The-Incomparable-Mothership)  
 - [The Incomparable Radio Theater](#The-Incomparable-Radio-Theater)  
@@ -339,6 +340,13 @@
 **Shortest episode:** Episode PSA 'Vulcan Hello' and 'Biff' aren't here! (0:01:48)  
 
 ![](../images/TeeVee.png)
+
+### The Cast of Us: HBO's "The Last Of Us" Recapped
+
+**Longest episode:** Episode 1 Trailer Analysis (0:46:26)  
+**Shortest episode:** Episode 1 Trailer Analysis (0:46:26)  
+
+![](../images/The%20Cast%20of%20Us%3A%20HBO%27s%20%22The%20Last%20Of%20Us%22%20Recapped.png)
 
 ### The Incomparable Game Show
 
