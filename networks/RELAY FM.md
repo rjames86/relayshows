@@ -342,7 +342,7 @@
 
 ### Thoroughly Considered
 
-**Longest episode:** Episode 86 Merciless Fundraising (1:13:37)  
+**Longest episode:** Episode 93 The Last Detail with Stephan Ango (1:16:17)  
 **Shortest episode:** Episode 1 Introductions (0:20:55)  
 
 ![](../images/Thoroughly%20Considered.png)
