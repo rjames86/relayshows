@@ -342,7 +342,7 @@
 
 ### Thoroughly Considered
 
-**Longest episode:** Episode 93 The Last Detail with Stephan Ango (1:16:17)  
+**Longest episode:** Episode 94 I Love the Mind Virus (1:18:06)  
 **Shortest episode:** Episode 1 Introductions (0:20:55)  
 
 ![](../images/Thoroughly%20Considered.png)
