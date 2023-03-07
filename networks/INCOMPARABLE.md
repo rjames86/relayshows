@@ -343,7 +343,7 @@
 
 ### The Cast of Us: HBO's "The Last Of Us" Recapped
 
-**Longest episode:** Episode 8 S1E7 Review: "Left Behind" (1:30:14)  
+**Longest episode:** Episode 9 S1E8 Review: "When We Are In Need" (1:30:28)  
 **Shortest episode:** Episode 1 Trailer Analysis (0:46:26)  
 
 ![](../images/The%20Cast%20of%20Us%3A%20HBO%27s%20%22The%20Last%20Of%20Us%22%20Recapped.png)
