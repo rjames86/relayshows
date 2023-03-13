@@ -76,7 +76,7 @@
 
 ### Analog(ue)
 
-**Longest episode:** Episode 194 One of the Best Whims I've Ever Had (1:50:55)  
+**Longest episode:** Episode 211 Ha La BUSINESS (1:50:55)  
 **Shortest episode:** Episode 24 I Don't Want To Burden People (0:39:48)  
 
 ![](../images/Analog%28ue%29.png)
