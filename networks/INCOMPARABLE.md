@@ -63,7 +63,7 @@
 
 ### A Complicated Profession: "Star Wars" on TV
 
-**Longest episode:** Episode 54 Andor S1E12: "Rix Road" (1:09:33)  
+**Longest episode:** Episode 64 The Mandalorian S3E8: "Chapter 24: The Return" (1:10:26)  
 **Shortest episode:** Episode 0 Coming Soon: The Bad Batch (0:01:48)  
 
 ![](../images/A%20Complicated%20Profession%3A%20%22Star%20Wars%22%20on%20TV.png)
