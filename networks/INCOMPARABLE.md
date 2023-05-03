@@ -40,6 +40,7 @@
 - [SestraCast (Orphan Black)](#SestraCast-Orphan-Black)  
 - [Somehow I Manage (Rewatching "The Office")](#Somehow-I-Manage-Rewatching-The-Office)  
 - [Sophomore Lit](#Sophomore-Lit)  
+- [Sorkin' In It: The Films of Aaron Sorkin](#Sorkin-In-It-The-Films-of-Aaron-Sorkin)  
 - [TeeVee](#TeeVee)  
 - [The Cast of Us: HBO's "The Last Of Us" Recapped](#The-Cast-of-Us-HBOs-The-Last-Of-Us-Recapped)  
 - [The Incomparable Game Show](#The-Incomparable-Game-Show)  
@@ -333,6 +334,13 @@
 **Shortest episode:** Episode 109 Yes, Virginia, There is a Santa Claus (0:15:53)  
 
 ![](../images/Sophomore%20Lit.png)
+
+### Sorkin' In It: The Films of Aaron Sorkin
+
+**Longest episode:** Episode 0 Sorkin' in It: Trailer (0:06:25)  
+**Shortest episode:** Episode 0 Sorkin' in It: Trailer (0:06:25)  
+
+![](../images/Sorkin%27%20In%20It%3A%20The%20Films%20of%20Aaron%20Sorkin.png)
 
 ### TeeVee
 
