@@ -223,7 +223,7 @@
 
 ### Material
 
-**Longest episode:** Episode 244 Leap Day Andy (1:48:32)  
+**Longest episode:** Episode 411 The AI Message (1:55:21)  
 **Shortest episode:** Episode 26 Mint Condition (0:30:32)  
 
 ![](../images/Material.png)
