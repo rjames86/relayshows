@@ -114,7 +114,7 @@
 ### Biff! Superhero TV and movies
 
 **Longest episode:** Episode 16 Superman: The Movie (1:58:00)  
-**Shortest episode:** Arrow S7E18 Review: "Lost Canary" (TeeVee 556) (0:15:42)  
+**Shortest episode:** Episode 174 No Bloody Ant-Man, Batman, Constantine, *or* Deadpool (0:10:53)  
 
 ![](../images/Biff%21%20Superhero%20TV%20and%20movies.png)
 
