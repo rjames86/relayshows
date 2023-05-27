@@ -3,7 +3,6 @@
 ## Table of Contents:
 - [20 Macs for 2020](#-Macs-for-)  
 - [Adapt](#Adapt)  
-- [Almanac](#Almanac)  
 - [Analog(ue)](#Analogue)  
 - [Automators](#Automators)  
 - [BONANZA](#BONANZA)  
@@ -37,7 +36,6 @@
 - [Remaster](#Remaster)  
 - [Roboism](#Roboism)  
 - [Rocket](#Rocket)  
-- [Subnet](#Subnet)  
 - [The Backmarkers](#The-Backmarkers)  
 - [The Pen Addict](#The-Pen-Addict)  
 - [The Prompt](#The-Prompt)  
@@ -66,13 +64,6 @@
 **Shortest episode:** Episode 28 iPadOS 14 (0:47:00)  
 
 ![](../images/Adapt.png)
-
-### Almanac
-
-**Longest episode:** Episode 1 Simply Look Around (1:29:48)  
-**Shortest episode:** Episode 1 Simply Look Around (1:29:48)  
-
-![](../images/Almanac.png)
 
 ### Analog(ue)
 
@@ -304,13 +295,6 @@
 **Shortest episode:** Episode 315 Trump’s Twitter Ban (0:21:25)  
 
 ![](../images/Rocket.png)
-
-### Subnet
-
-**Longest episode:** Episode 178 October 11, 2018 (0:04:15)  
-**Shortest episode:** Episode 0 Promo (0:00:44)  
-
-![](../images/Subnet.png)
 
 ### The Backmarkers
 
