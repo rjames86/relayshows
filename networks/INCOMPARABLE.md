@@ -337,7 +337,7 @@
 
 ### Sorkin' In It: The Films of Aaron Sorkin
 
-**Longest episode:** Episode 1 A Few Good Men (0:41:34)  
+**Longest episode:** Episode 5 The Social Network (0:49:19)  
 **Shortest episode:** Episode 0 Sorkin' in It: Trailer (0:06:25)  
 
 ![](../images/Sorkin%27%20In%20It%3A%20The%20Films%20of%20Aaron%20Sorkin.png)
