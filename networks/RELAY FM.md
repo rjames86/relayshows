@@ -152,7 +152,7 @@
 ### Downstream
 
 **Longest episode:** Episode 14 Quintessential Identity Crisis (1:23:03)  
-**Shortest episode:** Episode 34 Rating The Pluses (0:27:13)  
+**Shortest episode:** Episode 46 The Chris Licht Conundrum (0:23:09)  
 
 ![](../images/Downstream.png)
 
