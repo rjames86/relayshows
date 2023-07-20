@@ -18,6 +18,7 @@
 - [Dragonmount: The Wheel of Time Podcast](#Dragonmount-The-Wheel-of-Time-Podcast)  
 - [Earp Chirp: Alberta's Wynonna Earp podcast](#Earp-Chirp-Albertas-Wynonna-Earp-podcast)  
 - [Football is Life! - Watching "Ted Lasso"](#Football-is-Life--Watching-Ted-Lasso)  
+- [Free the Squee](#Free-the-Squee)  
 - [Friends in Your Ears](#Friends-in-Your-Ears)  
 - [Greetings from the Uncanny Valley](#Greetings-from-the-Uncanny-Valley)  
 - [I Want My M(CU)TV: Talking Marvel's New TV Shows](#I-Want-My-MCUTV-Talking-Marvels-New-TV-Shows)  
@@ -180,6 +181,13 @@
 **Shortest episode:** Episode 30 "The Strings that Bind Us" (S3E7) (0:44:00)  
 
 ![](../images/Football%20is%20Life%21%20-%20Watching%20%22Ted%20Lasso%22.png)
+
+### Free the Squee
+
+**Longest episode:** Episode 0 Free the Squee! (0:08:42)  
+**Shortest episode:** Episode 0 Free the Squee! (0:08:42)  
+
+![](../images/Free%20the%20Squee.png)
 
 ### Friends in Your Ears
 
