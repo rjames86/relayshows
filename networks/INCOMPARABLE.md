@@ -304,7 +304,7 @@
 ### Recently Read - book reviews from The Incomparable
 
 **Longest episode:** Episode 47 "Famous Men Who Never Lived" by K. Chess (0:09:44)  
-**Shortest episode:** Episode 50 "Interior Chinatown" by Charles Yu (0:01:59)  
+**Shortest episode:** Episode 67 "Witch King" by Martha Wells (0:01:43)  
 
 ![](../images/Recently%20Read%20-%20book%20reviews%20from%20The%20Incomparable.png)
 
