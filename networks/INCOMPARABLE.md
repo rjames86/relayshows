@@ -234,7 +234,7 @@
 ### Magnum, podcast - revisiting "Magnum P.I."
 
 **Longest episode:** Episode 41 "Ki'i's Don't Lie" (S3E3) & "Emeralds Are Not a Girl's Best Friend" (S&S S2E1) (1:21:18)  
-**Shortest episode:** Episode 8 "The Elmo Ziller Story" (S2E21) (0:17:20)  
+**Shortest episode:** Episode 69 Season 4 teaser and Maui relief (0:11:24)  
 
 ![](../images/Magnum%2C%20podcast%20-%20revisiting%20%22Magnum%20P.I.%22.png)
 
