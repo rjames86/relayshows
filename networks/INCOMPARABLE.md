@@ -184,7 +184,7 @@
 
 ### Free the Squee
 
-**Longest episode:** Episode 0 Free the Squee! (0:08:42)  
+**Longest episode:** Episode 1 Just Open The Damn Door (0:23:19)  
 **Shortest episode:** Episode 0 Free the Squee! (0:08:42)  
 
 ![](../images/Free%20the%20Squee.png)
