@@ -163,7 +163,7 @@
 
 ### Dragonmount: The Wheel of Time Podcast
 
-**Longest episode:** Episode 8 "The Dark Along the Ways" (S1E7) (1:45:39)  
+**Longest episode:** Episode 19 "What Might Be" (S2E3) (2:14:09)  
 **Shortest episode:** Episode 5 "The Dragon Reborn" (S1E4) (0:01:26)  
 
 ![](../images/Dragonmount%3A%20The%20Wheel%20of%20Time%20Podcast.png)
@@ -443,7 +443,7 @@
 
 ### Vulcan Hello (Star Trek Discovery, Picard, Strange New Worlds)
 
-**Longest episode:** Episode 30 "Star Trek: Discovery" season 3 wrap-up (1:29:26)  
+**Longest episode:** Episode 82 "Strange New Worlds" S2 wrap-up panel (1:59:14)  
 **Shortest episode:** Star Trek: Discovery Short Treks #4 Review: "The Escape Artist" (TeeVee 516) (0:19:46)  
 
 ![](../images/Vulcan%20Hello%20%28Star%20Trek%20Discovery%2C%20Picard%2C%20Strange%20New%20Worlds%29.png)
