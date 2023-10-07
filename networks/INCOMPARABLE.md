@@ -65,7 +65,7 @@
 
 ### A Complicated Profession: "Star Wars" on TV
 
-**Longest episode:** Episode 64 The Mandalorian S3E8: "Chapter 24: The Return" (1:10:26)  
+**Longest episode:** Episode 71 Ahsoka S1E8: "The Jedi, the Witch, and the Warlord" (1:19:00)  
 **Shortest episode:** Episode 0 Coming Soon: The Bad Batch (0:01:48)  
 
 ![](../images/A%20Complicated%20Profession%3A%20%22Star%20Wars%22%20on%20TV.png)
@@ -184,7 +184,7 @@
 
 ### Free the Squee
 
-**Longest episode:** Episode 1 Just Open The Damn Door (0:23:19)  
+**Longest episode:** Episode 2 Let's Give Them Something To Talk About (0:33:08)  
 **Shortest episode:** Episode 0 Free the Squee! (0:08:42)  
 
 ![](../images/Free%20the%20Squee.png)
