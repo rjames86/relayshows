@@ -184,7 +184,7 @@
 
 ### Free the Squee
 
-**Longest episode:** Episode 2 Let's Give Them Something To Talk About (0:33:08)  
+**Longest episode:** Episode 3 Horror is a Trench (Not a Bucket) (0:45:05)  
 **Shortest episode:** Episode 0 Free the Squee! (0:08:42)  
 
 ![](../images/Free%20the%20Squee.png)
