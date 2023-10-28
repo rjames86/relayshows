@@ -355,7 +355,7 @@
 ### Upgrade
 
 **Longest episode:** Episode 332 The 2020 Upgradies (2:34:11)  
-**Shortest episode:** Episode 277 Who Killed the Butterfly Keyboard? (0:34:16)  
+**Shortest episode:** Episode 483 The 2023 October Event Draft (0:27:42)  
 
 ![](../images/Upgrade.png)
 
