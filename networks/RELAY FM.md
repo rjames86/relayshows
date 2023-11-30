@@ -124,7 +124,7 @@
 ### Connected
 
 **Longest episode:** Episode 24 A Whole Website in the Palm of Your Hand (2:56:24)  
-**Shortest episode:** Episode 90 A Set of Unlucky Coincidences (0:48:59)  
+**Shortest episode:** Episode 478 Not So Bankrupt Anymore (0:46:09)  
 
 ![](../images/Connected.png)
 
