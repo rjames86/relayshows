@@ -184,7 +184,7 @@
 
 ### Free the Squee
 
-**Longest episode:** Episode 3 Horror is a Trench (Not a Bucket) (0:45:05)  
+**Longest episode:** Episode 5 "Your Zayde Is a Level 20 Archdruid?!?" (1:22:23)  
 **Shortest episode:** Episode 0 Free the Squee! (0:08:42)  
 
 ![](../images/Free%20the%20Squee.png)
