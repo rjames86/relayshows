@@ -291,7 +291,7 @@
 
 ### Rocket
 
-**Longest episode:** Episode 411 TWiT Takeover! (1:39:55)  
+**Longest episode:** Episode 470 Terminated (2:00:21)  
 **Shortest episode:** Episode 315 Trump’s Twitter Ban (0:21:25)  
 
 ![](../images/Rocket.png)
