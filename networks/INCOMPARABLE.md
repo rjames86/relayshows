@@ -240,7 +240,7 @@
 
 ### Monty and Rhias vs. Movies
 
-**Longest episode:** Episode 8 Atolladero (0:37:45)  
+**Longest episode:** Episode 44 2023 Wrapup (0:40:32)  
 **Shortest episode:** Episode 25 M3GAN (0:12:06)  
 
 ![](../images/Monty%20and%20Rhias%20vs.%20Movies.png)
