@@ -61,7 +61,7 @@
 
 **Network's longest episode:** Sophomore Lit - Episode 93 Mrs. Dalloway (4:32:08)
 
-**Network's shortest episode:** Sophomore Lit - Episode 154 Wide Sargasso Sea (0:00:00)
+**Network's shortest episode:** Lions, Towers & Shields - Episode 61 Big Theremin Energy and an Implied Train (0:00:37)
 
 ### A Complicated Profession: "Star Wars" on TV
 
@@ -339,7 +339,7 @@
 ### Sophomore Lit
 
 **Longest episode:** Episode 93 Mrs. Dalloway (4:32:08)  
-**Shortest episode:** Episode 154 Wide Sargasso Sea (0:00:00)  
+**Shortest episode:** Episode 109 Yes, Virginia, There is a Santa Claus (0:15:53)  
 
 ![](../images/Sophomore%20Lit.png)
 
