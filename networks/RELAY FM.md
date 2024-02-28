@@ -298,7 +298,7 @@
 
 ### The Backmarkers
 
-**Longest episode:** Episode 23 Drive to Survive Review and 2023 Preview (1:20:50)  
+**Longest episode:** Episode 29 2024 Season Preview (1:23:05)  
 **Shortest episode:** Episode 8 Canadian Grand Prix Review (0:37:06)  
 
 ![](../images/The%20Backmarkers.png)
