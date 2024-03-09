@@ -326,7 +326,7 @@
 
 ### Thoroughly Considered
 
-**Longest episode:** Episode 94 I Love the Mind Virus (1:18:06)  
+**Longest episode:** Episode 109 The Last Detail with CW&T (1:19:58)  
 **Shortest episode:** Episode 1 Introductions (0:20:55)  
 
 ![](../images/Thoroughly%20Considered.png)
