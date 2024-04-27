@@ -271,7 +271,7 @@
 ### Reconcilable Differences
 
 **Longest episode:** Episode 25 Zarro Droogs (3:21:09)  
-**Shortest episode:** Episode 128 Ciao, Francesco Rinaldi! (1:04:46)  
+**Shortest episode:** Episode 233 Monkeys in the Hose (0:56:56)  
 
 ![](../images/Reconcilable%20Differences.png)
 
