@@ -27,6 +27,7 @@
 - [Material](#Material)  
 - [Mixed Feelings](#Mixed-Feelings)  
 - [Originality](#Originality)  
+- [Paper Places](#Paper-Places)  
 - [Parallel](#Parallel)  
 - [Pictorial](#Pictorial)  
 - [Playing for Fun](#Playing-for-Fun)  
@@ -232,6 +233,13 @@
 **Shortest episode:** Episode 24 Bury Your Shoulds (0:44:55)  
 
 ![](../images/Originality.png)
+
+### Paper Places
+
+**Longest episode:** Episode 0 An Introductory Q&A (0:13:57)  
+**Shortest episode:** Episode 0 An Introductory Q&A (0:13:57)  
+
+![](../images/Paper%20Places.png)
 
 ### Parallel
 
