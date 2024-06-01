@@ -236,7 +236,7 @@
 
 ### Paper Places
 
-**Longest episode:** Episode 1 First Advances, Editing Manuscripts and Leaving Journalism for Fiction, with Dan Moren (1:03:49)  
+**Longest episode:** Episode 2 How to Meet Other Writers, and the Joys and Challenges of Writing Memoir, with Freya Bromley (1:13:02)  
 **Shortest episode:** Episode 0 An Introductory Q&A (0:13:57)  
 
 ![](../images/Paper%20Places.png)
