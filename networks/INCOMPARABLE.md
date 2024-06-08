@@ -61,7 +61,7 @@
 
 **Network's longest episode:** Sophomore Lit - Episode 93 Mrs. Dalloway (4:32:08)
 
-**Network's shortest episode:** Lions, Towers & Shields - Episode 61 Big Theremin Energy and an Implied Train (0:00:37)
+**Network's shortest episode:** Not Playing with Lex and Dan - Episode 1 Bull Durham (0:00:30)
 
 ### A Complicated Profession: "Star Wars" on TV
 
@@ -262,7 +262,7 @@
 ### Not Playing with Lex and Dan
 
 **Longest episode:** Episode 8 Star Wars: The Force Awakens (0:58:13)  
-**Shortest episode:** Episode 5 Witness (0:17:40)  
+**Shortest episode:** Episode 1 Bull Durham (0:00:30)  
 
 ![](../images/Not%20Playing%20with%20Lex%20and%20Dan.png)
 
