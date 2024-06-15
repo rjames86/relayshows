@@ -236,7 +236,7 @@
 
 ### Paper Places
 
-**Longest episode:** Episode 2 How to Meet Other Writers, and the Joys and Challenges of Writing Memoir, with Freya Bromley (1:13:02)  
+**Longest episode:** Episode 3 Writing Residencies and Getting a Six-Figure Book Deal, with Ellen Atlanta (1:15:22)  
 **Shortest episode:** Episode 0 An Introductory Q&A (0:13:57)  
 
 ![](../images/Paper%20Places.png)
