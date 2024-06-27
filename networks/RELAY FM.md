@@ -243,7 +243,7 @@
 
 ### Parallel
 
-**Longest episode:** Episode 41 A Tech Year in Review (1:28:59)  
+**Longest episode:** Episode 93 The Last Show (1:30:08)  
 **Shortest episode:** Episode 0 Introducing Parallel (0:06:48)  
 
 ![](../images/Parallel.png)
