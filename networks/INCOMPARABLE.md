@@ -65,7 +65,7 @@
 
 ### A Complicated Profession: "Star Wars" on TV
 
-**Longest episode:** Episode 88 The Acolyte S1E7: "Choice" (1:24:51)  
+**Longest episode:** Episode 89 The Acolyte S1E8: "The Acolyte" (1:24:55)  
 **Shortest episode:** Episode 0 Coming Soon: The Bad Batch (0:01:48)  
 
 ![](../images/A%20Complicated%20Profession%3A%20%22Star%20Wars%22%20on%20TV.png)
