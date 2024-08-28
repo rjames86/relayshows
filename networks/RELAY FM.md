@@ -1,7 +1,7 @@
 # Relay FM
 
 ## Table of Contents:
-- [20 Macs for 2020](#-Macs-for-)  
+- [20 Macs](#-Macs)  
 - [Adapt](#Adapt)  
 - [Analog(ue)](#Analogue)  
 - [Automators](#Automators)  
@@ -52,12 +52,12 @@
 
 **Network's shortest episode:** Ungeniused - Episode 173 Seven Swans A-swimming (0:00:12)
 
-### 20 Macs for 2020
+### 20 Macs
 
 **Longest episode:** Episode 21 John Siracusa, part 1 (1:44:09)  
 **Shortest episode:** Episode 0 Introduction (0:02:10)  
 
-![](../images/20%20Macs%20for%202020.png)
+![](../images/20%20Macs.png)
 
 ### Adapt
 
