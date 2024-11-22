@@ -233,7 +233,7 @@
 
 ### Magnum, podcast - revisiting "Magnum P.I."
 
-**Longest episode:** Episode 41 "Ki'i's Don't Lie" (S3E3) & "Emeralds Are Not a Girl's Best Friend" (S&S S2E1) (1:21:18)  
+**Longest episode:** Episode 96 "Memories Are Forever" (S2E5-6) (1:27:42)  
 **Shortest episode:** Episode 69 Season 4 teaser and Maui relief (0:11:24)  
 
 ![](../images/Magnum%2C%20podcast%20-%20revisiting%20%22Magnum%20P.I.%22.png)
@@ -416,7 +416,7 @@
 ### Tim Goodman's TV Talk Machine
 
 **Longest episode:** Episode 32 Green Brains & Ham (1:22:56)  
-**Shortest episode:** Episode 27 Werewolf Don Draper (0:24:56)  
+**Shortest episode:** Episode 66 Death March With Cocktails - Spike Lee (0:04:01)  
 
 ![](../images/Tim%20Goodman%27s%20TV%20Talk%20Machine.png)
 
