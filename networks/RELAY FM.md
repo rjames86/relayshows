@@ -117,7 +117,7 @@
 
 ### Conduit
 
-**Longest episode:** Episode 37 Systems Check Fall 2022 - Systems Don’t Solve Everything (1:36:48)  
+**Longest episode:** Episode 89 End of the Year Systems Check! (2:02:23)  
 **Shortest episode:** Episode 0 Episode 0 - It’s the Show! (0:10:21)  
 
 ![](../images/Conduit.png)
