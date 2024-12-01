@@ -198,7 +198,7 @@
 
 ### Greetings from the Uncanny Valley
 
-**Longest episode:** Analysis: "Les Écorchés " (S2E7) (TeeVee 443) (1:36:05)  
+**Longest episode:** Analysis: "Les Ã‰corchÃ©s " (S2E7) (TeeVee 443) (1:36:05)  
 **Shortest episode:** Episode 58 The Complete Opposite of Matlock (0:11:39)  
 
 ![](../images/Greetings%20from%20the%20Uncanny%20Valley.png)
