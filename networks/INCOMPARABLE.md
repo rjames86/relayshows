@@ -61,7 +61,7 @@
 
 **Network's longest episode:** Sophomore Lit - Episode 93 Mrs. Dalloway (4:32:08)
 
-**Network's shortest episode:** Not Playing with Lex and Dan - Episode 1 Bull Durham (0:00:30)
+**Network's shortest episode:** The Incomparable Mothership - Episode 745 Untitled Gambit Project (0:00:00)
 
 ### A Complicated Profession: "Star Wars" on TV
 
@@ -374,7 +374,7 @@
 ### The Incomparable Mothership
 
 **Longest episode:** Episode 138 All Hail the Lion! (3:28:43)  
-**Shortest episode:** Episode 38 Curse of the Bad Plot (0:24:50)  
+**Shortest episode:** Episode 745 Untitled Gambit Project (0:00:00)  
 
 ![](../images/The%20Incomparable%20Mothership.png)
 
