@@ -173,8 +173,8 @@
 
 ### Inquisitive
 
-**Longest episode:** Episode 1 Having Principles, with Marco Arment (1:32:58)  
-**Shortest episode:** Episode 33 Behind the App #7: Identity (0:26:23)  
+**Longest episode:** Episode 1 Having Principles, with Marco Arment (1:32:57)  
+**Shortest episode:** Episode 33 Behind the App #7: Identity (0:26:22)  
 
 ![](../images/Inquisitive.png)
 
