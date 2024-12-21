@@ -61,7 +61,7 @@
 
 **Network's longest episode:** Sophomore Lit - Episode 93 Mrs. Dalloway (4:32:08)
 
-**Network's shortest episode:** The Incomparable Mothership - Episode 746 Ape Mismanagement (0:00:00)
+**Network's shortest episode:** The Incomparable Mothership - Episode 747 Latin Rap Battle (0:00:00)
 
 ### A Complicated Profession: "Star Wars" on TV
 
@@ -374,7 +374,7 @@
 ### The Incomparable Mothership
 
 **Longest episode:** Episode 138 All Hail the Lion! (3:28:43)  
-**Shortest episode:** Episode 746 Ape Mismanagement (0:00:00)  
+**Shortest episode:** Episode 747 Latin Rap Battle (0:00:00)  
 
 ![](../images/The%20Incomparable%20Mothership.png)
 
