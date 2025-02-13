@@ -185,7 +185,7 @@
 ### Free the Squee
 
 **Longest episode:** Episode 5 "Your Zayde Is a Level 20 Archdruid?!?" (1:22:23)  
-**Shortest episode:** Episode 0 Free the Squee! (0:08:42)  
+**Shortest episode:** Episode 15 Gearing Up for Gally (0:05:40)  
 
 ![](../images/Free%20the%20Squee.png)
 
