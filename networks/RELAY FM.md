@@ -237,7 +237,7 @@
 
 ### Paper Places
 
-**Longest episode:** Episode 3 Writing Residencies and Getting a Six-Figure Book Deal, with Ellen Atlanta (1:15:22)  
+**Longest episode:** Episode 12 Becoming an Organised Writer and Working for Hollywood, with Antony Johnston (1:20:57)  
 **Shortest episode:** Episode 0 An Introductory Q&A (0:13:57)  
 
 ![](../images/Paper%20Places.png)
