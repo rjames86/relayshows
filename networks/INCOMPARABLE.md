@@ -115,7 +115,7 @@
 ### Biff! Superhero TV and movies
 
 **Longest episode:** Episode 197 X-Men 2: X-Men United (2:21:19)  
-**Shortest episode:** Episode 174 No Bloody Ant-Man, Batman, Constantine, *or* Deadpool (0:10:53)  
+**Shortest episode:** Episode 231 Daredevil: Born Again Ep 5-6 (0:00:20)  
 
 ![](../images/Biff%21%20Superhero%20TV%20and%20movies.png)
 
