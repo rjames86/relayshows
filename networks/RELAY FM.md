@@ -342,7 +342,7 @@
 
 ### Thoroughly Considered
 
-**Longest episode:** Episode 109 The Last Detail with CW&T (1:19:58)  
+**Longest episode:** Episode 123 The Last Detail with John Siracusa (1:20:51)  
 **Shortest episode:** Episode 1 Introductions (0:20:55)  
 
 ![](../images/Thoroughly%20Considered.png)
