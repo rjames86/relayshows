@@ -65,7 +65,7 @@
 
 ### A Complicated Profession: "Star Wars" on TV
 
-**Longest episode:** Episode 100 Spider-Based Economy (1:27:56)  
+**Longest episode:** Episode 102 Chek(h)ov's Hospital (1:46:28)  
 **Shortest episode:** Episode 0 Coming Soon: The Bad Batch (0:01:48)  
 
 ![](../images/A%20Complicated%20Profession%3A%20%22Star%20Wars%22%20on%20TV.png)
