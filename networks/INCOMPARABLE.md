@@ -359,7 +359,7 @@
 
 ### The Cast of Us: HBO's "The Last Of Us" Recapped
 
-**Longest episode:** Episode 10 S1E9 Review: "Look for the Light" (2:00:42)  
+**Longest episode:** Episode 17 S2E7 Review: "Convergence" (2:30:03)  
 **Shortest episode:** Episode 1 Trailer Analysis (0:46:26)  
 
 ![](../images/The%20Cast%20of%20Us%3A%20HBO%27s%20%22The%20Last%20Of%20Us%22%20Recapped.png)
