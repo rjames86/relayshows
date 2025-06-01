@@ -156,7 +156,7 @@
 
 ### Doctor Who Flashcast
 
-**Longest episode:** Season 7 Second Half Review (The Incomparable 142) (1:38:02)  
+**Longest episode:** Episode 92 "The Reality War" (S2E8) (1:52:08)  
 **Shortest episode:** “Curse of the Black Spot.” (S6E3) (The Incomparable 38) (0:24:50)  
 
 ![](../images/Doctor%20Who%20Flashcast.png)
