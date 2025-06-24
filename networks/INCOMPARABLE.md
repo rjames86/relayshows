@@ -457,7 +457,7 @@
 
 ### Where or When
 
-**Longest episode:** Episode 02 The Charge of the Abraham Lincoln Brigade (0:32:00)  
-**Shortest episode:** Episode 03 The Sun is the Same in a Relative Way (0:23:28)  
+**Longest episode:** Episode 07 There's No Love Song Finer (0:00:00)  
+**Shortest episode:** Episode 07 There's No Love Song Finer (0:00:00)  
 
 ![](../images/Where%20or%20When.png)
