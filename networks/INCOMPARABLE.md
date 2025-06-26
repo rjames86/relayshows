@@ -115,7 +115,7 @@
 ### Biff! Superhero TV and movies
 
 **Longest episode:** Episode 197 X-Men 2: X-Men United (2:21:19)  
-**Shortest episode:** Episode 231 Daredevil: Born Again Ep 5-6 (0:00:20)  
+**Shortest episode:** Arrow S7E18 Review: "Lost Canary" (TeeVee 556) (0:15:42)  
 
 ![](../images/Biff%21%20Superhero%20TV%20and%20movies.png)
 
@@ -163,8 +163,8 @@
 
 ### Dragonmount: The Wheel of Time Podcast
 
-**Longest episode:** Episode 21 "Damane" (S2E5) (2:41:07)  
-**Shortest episode:** Episode 5 "The Dragon Reborn" (S1E4) (0:01:26)  
+**Longest episode:** Episode 24 "What Was Meant to Be" (S2E8) (3:02:59)  
+**Shortest episode:** Episode 10 Interview with Hammed Animashaun (0:09:45)  
 
 ![](../images/Dragonmount%3A%20The%20Wheel%20of%20Time%20Podcast.png)
 
@@ -184,22 +184,22 @@
 
 ### Free the Squee
 
-**Longest episode:** Episode 5 "Your Zayde Is a Level 20 Archdruid?!?" (1:22:23)  
-**Shortest episode:** Episode 15 Gearing Up for Gally (0:05:40)  
+**Longest episode:** Episode 5 "Your Zayde Is a Level 20 Archdruid?!?" (1:22:24)  
+**Shortest episode:** Episode 15 Gearing Up for Gally (0:07:22)  
 
 ![](../images/Free%20the%20Squee.png)
 
 ### Friends in Your Ears
 
 **Longest episode:** Episode 28 Mark Bramhill and Suzy Buttress (1:58:45)  
-**Shortest episode:** Episode 88 Cicero Holmes and Julianna Coughlin (0:05:56)  
+**Shortest episode:** Episode 23 PodCon 2 (0:13:26)  
 
 ![](../images/Friends%20in%20Your%20Ears.png)
 
 ### Greetings from the Uncanny Valley
 
 **Longest episode:** Analysis: "Les Ã‰corchÃ©s " (S2E7) (TeeVee 443) (1:36:05)  
-**Shortest episode:** Episode 58 The Complete Opposite of Matlock (0:11:39)  
+**Shortest episode:** Season Two Teaser (TeeVee 388) (0:18:24)  
 
 ![](../images/Greetings%20from%20the%20Uncanny%20Valley.png)
 
@@ -227,7 +227,7 @@
 ### Lions, Towers & Shields
 
 **Longest episode:** Episode 60 Celebrate the Teresa Wright-aissance (1:43:39)  
-**Shortest episode:** Episode 61 Big Theremin Energy and an Implied Train (0:00:37)  
+**Shortest episode:** Episode 110 Bogart: Life Comes In Flashes (0:28:17)  
 
 ![](../images/Lions%2C%20Towers%20%26%20Shields.png)
 
@@ -318,7 +318,7 @@
 ### Saga of Rereading Epics
 
 **Longest episode:** Episode 10 Magnificat (1:32:33)  
-**Shortest episode:** Episode 1 Why Read These Books? (0:40:38)  
+**Shortest episode:** Episode 1 Why Read These Books? (0:40:34)  
 
 ![](../images/Saga%20of%20Rereading%20Epics.png)
 
