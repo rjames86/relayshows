@@ -119,7 +119,7 @@
 ### Conduit
 
 **Longest episode:** Episode 89 End of the Year Systems Check! (2:02:23)  
-**Shortest episode:** Episode 0 Episode 0 - It’s the Show! (0:10:21)  
+**Shortest episode:** Episode 106 This Is Not an Episode (But We're Sorry) (0:03:32)  
 
 ![](../images/Conduit.png)
 
@@ -224,7 +224,7 @@
 ### Mixed Feelings
 
 **Longest episode:** Episode 34 Libertarian Land (1:00:42)  
-**Shortest episode:** Episode 26 Hope It's Not Dominos (0:35:53)  
+**Shortest episode:** Episode 2 We All Need Each Other (0:35:41)  
 
 ![](../images/Mixed%20Feelings.png)
 
@@ -244,7 +244,7 @@
 
 ### Parallel
 
-**Longest episode:** Episode 93 The Last Show (1:30:08)  
+**Longest episode:** Episode 93 The Last Show (1:30:20)  
 **Shortest episode:** Episode 0 Introducing Parallel (0:06:48)  
 
 ![](../images/Parallel.png)
