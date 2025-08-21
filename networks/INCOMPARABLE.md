@@ -55,7 +55,7 @@
 - [Total Party Kill](#Total-Party-Kill)  
 - [Unjustly Maligned](#Unjustly-Maligned)  
 - [Voyager Revisited](#Voyager-Revisited)  
-- [Vulcan Hello (Star Trek Discovery, Picard, Strange New Worlds)](#Vulcan-Hello-Star-Trek-Discovery-Picard-Strange-New-Worlds)  
+- [Vulcan Hello (An aftershow for new Star Trek)](#Vulcan-Hello-An-aftershow-for-new-Star-Trek)  
 - [Watchers of the Plus](#Watchers-of-the-Plus)  
 - [Where or When](#Where-or-When)  
 
@@ -441,12 +441,12 @@
 
 ![](../images/Voyager%20Revisited.png)
 
-### Vulcan Hello (Star Trek Discovery, Picard, Strange New Worlds)
+### Vulcan Hello (An aftershow for new Star Trek)
 
 **Longest episode:** Episode 82 "Strange New Worlds" S2 wrap-up panel (1:59:14)  
 **Shortest episode:** Star Trek: Discovery Short Treks #4 Review: "The Escape Artist" (TeeVee 516) (0:19:46)  
 
-![](../images/Vulcan%20Hello%20%28Star%20Trek%20Discovery%2C%20Picard%2C%20Strange%20New%20Worlds%29.png)
+![](../images/Vulcan%20Hello%20%28An%20aftershow%20for%20new%20Star%20Trek%29.png)
 
 ### Watchers of the Plus
 
