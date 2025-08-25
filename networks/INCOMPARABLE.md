@@ -18,6 +18,7 @@
 - [Dragonmount: The Wheel of Time Podcast](#Dragonmount-The-Wheel-of-Time-Podcast)  
 - [Earp Chirp: Alberta's Wynonna Earp podcast](#Earp-Chirp-Albertas-Wynonna-Earp-podcast)  
 - [Football is Life! - Watching "Ted Lasso"](#Football-is-Life--Watching-Ted-Lasso)  
+- [Free the Squee](#Free-the-Squee)  
 - [Friends in Your Ears](#Friends-in-Your-Ears)  
 - [Greetings from the Uncanny Valley](#Greetings-from-the-Uncanny-Valley)  
 - [I Want My M(CU)TV: Talking Marvel's New TV Shows](#I-Want-My-MCUTV-Talking-Marvels-New-TV-Shows)  
@@ -40,7 +41,9 @@
 - [SestraCast (Orphan Black)](#SestraCast-Orphan-Black)  
 - [Somehow I Manage (Rewatching "The Office")](#Somehow-I-Manage-Rewatching-The-Office)  
 - [Sophomore Lit](#Sophomore-Lit)  
+- [Sorkin' In It: The Films & Television of Aaron Sorkin](#Sorkin-In-It-The-Films--Television-of-Aaron-Sorkin)  
 - [TeeVee](#TeeVee)  
+- [The Cast of Us: HBO's "The Last Of Us" Recapped](#The-Cast-of-Us-HBOs-The-Last-Of-Us-Recapped)  
 - [The Incomparable Game Show](#The-Incomparable-Game-Show)  
 - [The Incomparable Mothership](#The-Incomparable-Mothership)  
 - [The Incomparable Radio Theater](#The-Incomparable-Radio-Theater)  
@@ -52,17 +55,17 @@
 - [Total Party Kill](#Total-Party-Kill)  
 - [Unjustly Maligned](#Unjustly-Maligned)  
 - [Voyager Revisited](#Voyager-Revisited)  
-- [Vulcan Hello (Star Trek Discovery, Picard, Strange New Worlds)](#Vulcan-Hello-Star-Trek-Discovery-Picard-Strange-New-Worlds)  
+- [Vulcan Hello (An aftershow for new Star Trek)](#Vulcan-Hello-An-aftershow-for-new-Star-Trek)  
 - [Watchers of the Plus](#Watchers-of-the-Plus)  
 - [Where or When](#Where-or-When)  
 
 **Network's longest episode:** Sophomore Lit - Episode 93 Mrs. Dalloway (4:32:08)
 
-**Network's shortest episode:** Lions, Towers & Shields - Episode 61 Big Theremin Energy and an Implied Train (0:00:37)
+**Network's shortest episode:** Tim Goodman's TV Talk Machine - Episode 256 A Holiday Visit from Tim Goodman (0:00:00)
 
 ### A Complicated Profession: "Star Wars" on TV
 
-**Longest episode:** Episode 54 Andor S1E12: "Rix Road" (1:09:33)  
+**Longest episode:** Episode 102 Chek(h)ov's Hospital (1:46:28)  
 **Shortest episode:** Episode 0 Coming Soon: The Bad Batch (0:01:48)  
 
 ![](../images/A%20Complicated%20Profession%3A%20%22Star%20Wars%22%20on%20TV.png)
@@ -111,7 +114,7 @@
 
 ### Biff! Superhero TV and movies
 
-**Longest episode:** Episode 16 Superman: The Movie (1:58:00)  
+**Longest episode:** Episode 197 X-Men 2: X-Men United (2:21:19)  
 **Shortest episode:** Arrow S7E18 Review: "Lost Canary" (TeeVee 556) (0:15:42)  
 
 ![](../images/Biff%21%20Superhero%20TV%20and%20movies.png)
@@ -153,15 +156,15 @@
 
 ### Doctor Who Flashcast
 
-**Longest episode:** Season 7 Second Half Review (The Incomparable 142) (1:38:02)  
+**Longest episode:** Episode 92 "The Reality War" (S2E8) (1:52:08)  
 **Shortest episode:** “Curse of the Black Spot.” (S6E3) (The Incomparable 38) (0:24:50)  
 
 ![](../images/Doctor%20Who%20Flashcast.png)
 
 ### Dragonmount: The Wheel of Time Podcast
 
-**Longest episode:** Episode 8 "The Dark Along the Ways" (S1E7) (1:45:39)  
-**Shortest episode:** Episode 5 "The Dragon Reborn" (S1E4) (0:01:26)  
+**Longest episode:** Episode 24 "What Was Meant to Be" (S2E8) (3:02:59)  
+**Shortest episode:** Episode 10 Interview with Hammed Animashaun (0:09:45)  
 
 ![](../images/Dragonmount%3A%20The%20Wheel%20of%20Time%20Podcast.png)
 
@@ -175,21 +178,28 @@
 ### Football is Life! - Watching "Ted Lasso"
 
 **Longest episode:** Episode 3 "Trent Crimm: The Independent" Rewatch (S1E3) (1:37:58)  
-**Shortest episode:** Episode 11 "Goodbye Earl" (S2E1) (0:44:01)  
+**Shortest episode:** Episode 30 "The Strings that Bind Us" (S3E7) (0:44:00)  
 
 ![](../images/Football%20is%20Life%21%20-%20Watching%20%22Ted%20Lasso%22.png)
+
+### Free the Squee
+
+**Longest episode:** Episode 5 "Your Zayde Is a Level 20 Archdruid?!?" (1:22:24)  
+**Shortest episode:** Episode 15 Gearing Up for Gally (0:07:22)  
+
+![](../images/Free%20the%20Squee.png)
 
 ### Friends in Your Ears
 
 **Longest episode:** Episode 28 Mark Bramhill and Suzy Buttress (1:58:45)  
-**Shortest episode:** Episode 88 Cicero Holmes and Julianna Coughlin (0:05:56)  
+**Shortest episode:** Episode 23 PodCon 2 (0:13:26)  
 
 ![](../images/Friends%20in%20Your%20Ears.png)
 
 ### Greetings from the Uncanny Valley
 
-**Longest episode:** Analysis: "Les Écorchés " (S2E7) (TeeVee 443) (1:36:05)  
-**Shortest episode:** Episode 58 The Complete Opposite of Matlock (0:11:39)  
+**Longest episode:** Analysis: "Les Ã‰corchÃ©s " (S2E7) (TeeVee 443) (1:36:05)  
+**Shortest episode:** Season Two Teaser (TeeVee 388) (0:18:24)  
 
 ![](../images/Greetings%20from%20the%20Uncanny%20Valley.png)
 
@@ -217,21 +227,21 @@
 ### Lions, Towers & Shields
 
 **Longest episode:** Episode 60 Celebrate the Teresa Wright-aissance (1:43:39)  
-**Shortest episode:** Episode 61 Big Theremin Energy and an Implied Train (0:00:37)  
+**Shortest episode:** Episode 110 Bogart: Life Comes In Flashes (0:28:17)  
 
 ![](../images/Lions%2C%20Towers%20%26%20Shields.png)
 
 ### Magnum, podcast - revisiting "Magnum P.I."
 
-**Longest episode:** Episode 41 "Ki'i's Don't Lie" (S3E3) & "Emeralds Are Not a Girl's Best Friend" (S&S S2E1) (1:21:18)  
-**Shortest episode:** Episode 8 "The Elmo Ziller Story" (S2E21) (0:17:20)  
+**Longest episode:** Episode 96 "Memories Are Forever" (S2E5-6) (1:27:42)  
+**Shortest episode:** Episode 69 Season 4 teaser and Maui relief (0:11:24)  
 
 ![](../images/Magnum%2C%20podcast%20-%20revisiting%20%22Magnum%20P.I.%22.png)
 
 ### Monty and Rhias vs. Movies
 
-**Longest episode:** Episode 8 Atolladero (0:37:45)  
-**Shortest episode:** Episode 6 The Blood of Heroes (0:19:06)  
+**Longest episode:** Episode 44 2023 Wrapup (0:40:32)  
+**Shortest episode:** Episode 25 M3GAN (0:12:06)  
 
 ![](../images/Monty%20and%20Rhias%20vs.%20Movies.png)
 
@@ -252,7 +262,7 @@
 ### Not Playing with Lex and Dan
 
 **Longest episode:** Episode 8 Star Wars: The Force Awakens (0:58:13)  
-**Shortest episode:** Episode 5 Witness (0:17:40)  
+**Shortest episode:** Episode 1 Bull Durham (0:00:30)  
 
 ![](../images/Not%20Playing%20with%20Lex%20and%20Dan.png)
 
@@ -294,7 +304,7 @@
 ### Recently Read - book reviews from The Incomparable
 
 **Longest episode:** Episode 47 "Famous Men Who Never Lived" by K. Chess (0:09:44)  
-**Shortest episode:** Episode 50 "Interior Chinatown" by Charles Yu (0:01:59)  
+**Shortest episode:** Episode 67 "Witch King" by Martha Wells (0:01:43)  
 
 ![](../images/Recently%20Read%20-%20book%20reviews%20from%20The%20Incomparable.png)
 
@@ -308,7 +318,7 @@
 ### Saga of Rereading Epics
 
 **Longest episode:** Episode 10 Magnificat (1:32:33)  
-**Shortest episode:** Episode 1 Why Read These Books? (0:40:38)  
+**Shortest episode:** Episode 1 Why Read These Books? (0:40:34)  
 
 ![](../images/Saga%20of%20Rereading%20Epics.png)
 
@@ -333,12 +343,26 @@
 
 ![](../images/Sophomore%20Lit.png)
 
+### Sorkin' In It: The Films & Television of Aaron Sorkin
+
+**Longest episode:** Episode 5 The Social Network (0:49:19)  
+**Shortest episode:** Episode 0 Sorkin' in It: Trailer (0:06:25)  
+
+![](../images/Sorkin%27%20In%20It%3A%20The%20Films%20%26%20Television%20of%20Aaron%20Sorkin.png)
+
 ### TeeVee
 
 **Longest episode:** Episode 382 The Punisher War Journal: Episodes 10-13 (2:32:58)  
 **Shortest episode:** Episode PSA 'Vulcan Hello' and 'Biff' aren't here! (0:01:48)  
 
 ![](../images/TeeVee.png)
+
+### The Cast of Us: HBO's "The Last Of Us" Recapped
+
+**Longest episode:** Episode 17 S2E7 Review: "Convergence" (2:30:03)  
+**Shortest episode:** Episode 1 Trailer Analysis (0:46:26)  
+
+![](../images/The%20Cast%20of%20Us%3A%20HBO%27s%20%22The%20Last%20Of%20Us%22%20Recapped.png)
 
 ### The Incomparable Game Show
 
@@ -392,7 +416,7 @@
 ### Tim Goodman's TV Talk Machine
 
 **Longest episode:** Episode 32 Green Brains & Ham (1:22:56)  
-**Shortest episode:** Episode 27 Werewolf Don Draper (0:24:56)  
+**Shortest episode:** Episode 256 A Holiday Visit from Tim Goodman (0:00:00)  
 
 ![](../images/Tim%20Goodman%27s%20TV%20Talk%20Machine.png)
 
@@ -417,12 +441,12 @@
 
 ![](../images/Voyager%20Revisited.png)
 
-### Vulcan Hello (Star Trek Discovery, Picard, Strange New Worlds)
+### Vulcan Hello (An aftershow for new Star Trek)
 
-**Longest episode:** Episode 30 "Star Trek: Discovery" season 3 wrap-up (1:29:26)  
+**Longest episode:** Episode 82 "Strange New Worlds" S2 wrap-up panel (1:59:14)  
 **Shortest episode:** Star Trek: Discovery Short Treks #4 Review: "The Escape Artist" (TeeVee 516) (0:19:46)  
 
-![](../images/Vulcan%20Hello%20%28Star%20Trek%20Discovery%2C%20Picard%2C%20Strange%20New%20Worlds%29.png)
+![](../images/Vulcan%20Hello%20%28An%20aftershow%20for%20new%20Star%20Trek%29.png)
 
 ### Watchers of the Plus
 
@@ -433,7 +457,7 @@
 
 ### Where or When
 
-**Longest episode:** Episode 02 The Charge of the Abraham Lincoln Brigade (0:32:00)  
-**Shortest episode:** Episode 03 The Sun is the Same in a Relative Way (0:23:28)  
+**Longest episode:** Episode 07 There's No Love Song Finer (0:00:00)  
+**Shortest episode:** Episode 07 There's No Love Song Finer (0:00:00)  
 
 ![](../images/Where%20or%20When.png)

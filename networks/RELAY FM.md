@@ -1,9 +1,8 @@
 # Relay FM
 
 ## Table of Contents:
-- [20 Macs for 2020](#-Macs-for-)  
+- [20 Macs](#-Macs)  
 - [Adapt](#Adapt)  
-- [Almanac](#Almanac)  
 - [Analog(ue)](#Analogue)  
 - [Automators](#Automators)  
 - [BONANZA](#BONANZA)  
@@ -28,6 +27,7 @@
 - [Material](#Material)  
 - [Mixed Feelings](#Mixed-Feelings)  
 - [Originality](#Originality)  
+- [Paper Places](#Paper-Places)  
 - [Parallel](#Parallel)  
 - [Pictorial](#Pictorial)  
 - [Playing for Fun](#Playing-for-Fun)  
@@ -53,12 +53,12 @@
 
 **Network's shortest episode:** Ungeniused - Episode 173 Seven Swans A-swimming (0:00:12)
 
-### 20 Macs for 2020
+### 20 Macs
 
 **Longest episode:** Episode 21 John Siracusa, part 1 (1:44:09)  
 **Shortest episode:** Episode 0 Introduction (0:02:10)  
 
-![](../images/20%20Macs%20for%202020.png)
+![](../images/20%20Macs.png)
 
 ### Adapt
 
@@ -67,16 +67,9 @@
 
 ![](../images/Adapt.png)
 
-### Almanac
-
-**Longest episode:** Episode 1 Simply Look Around (1:29:48)  
-**Shortest episode:** Episode 1 Simply Look Around (1:29:48)  
-
-![](../images/Almanac.png)
-
 ### Analog(ue)
 
-**Longest episode:** Episode 194 One of the Best Whims I've Ever Had (1:50:55)  
+**Longest episode:** Episode 211 Ha La BUSINESS (1:50:55)  
 **Shortest episode:** Episode 24 I Don't Want To Burden People (0:39:48)  
 
 ![](../images/Analog%28ue%29.png)
@@ -125,15 +118,15 @@
 
 ### Conduit
 
-**Longest episode:** Episode 37 Systems Check Fall 2022 - Systems Don’t Solve Everything (1:36:48)  
-**Shortest episode:** Episode 0 Episode 0 - It’s the Show! (0:10:21)  
+**Longest episode:** Episode 89 End of the Year Systems Check! (2:02:23)  
+**Shortest episode:** Episode 106 This Is Not an Episode (But We're Sorry) (0:03:32)  
 
 ![](../images/Conduit.png)
 
 ### Connected
 
 **Longest episode:** Episode 24 A Whole Website in the Palm of Your Hand (2:56:24)  
-**Shortest episode:** Episode 90 A Set of Unlucky Coincidences (0:48:59)  
+**Shortest episode:** Episode 478 Not So Bankrupt Anymore (0:46:09)  
 
 ![](../images/Connected.png)
 
@@ -160,8 +153,8 @@
 
 ### Downstream
 
-**Longest episode:** Episode 14 Quintessential Identity Crisis (1:23:03)  
-**Shortest episode:** Episode 34 Rating The Pluses (0:27:13)  
+**Longest episode:** Episode 86 Fubulunu (1:24:14)  
+**Shortest episode:** Episode 76 Defund the Bundle (0:23:03)  
 
 ![](../images/Downstream.png)
 
@@ -181,8 +174,8 @@
 
 ### Inquisitive
 
-**Longest episode:** Episode 1 Having Principles, with Marco Arment (1:32:58)  
-**Shortest episode:** Episode 33 Behind the App #7: Identity (0:26:23)  
+**Longest episode:** Episode 1 Having Principles, with Marco Arment (1:32:57)  
+**Shortest episode:** Episode 33 Behind the App #7: Identity (0:26:22)  
 
 ![](../images/Inquisitive.png)
 
@@ -223,7 +216,7 @@
 
 ### Material
 
-**Longest episode:** Episode 244 Leap Day Andy (1:48:32)  
+**Longest episode:** Episode 411 The AI Message (1:55:21)  
 **Shortest episode:** Episode 26 Mint Condition (0:30:32)  
 
 ![](../images/Material.png)
@@ -231,7 +224,7 @@
 ### Mixed Feelings
 
 **Longest episode:** Episode 34 Libertarian Land (1:00:42)  
-**Shortest episode:** Episode 26 Hope It's Not Dominos (0:35:53)  
+**Shortest episode:** Episode 2 We All Need Each Other (0:35:41)  
 
 ![](../images/Mixed%20Feelings.png)
 
@@ -242,9 +235,16 @@
 
 ![](../images/Originality.png)
 
+### Paper Places
+
+**Longest episode:** Episode 12 Becoming an Organised Writer and Working for Hollywood, with Antony Johnston (1:20:57)  
+**Shortest episode:** Episode 0 An Introductory Q&A (0:13:57)  
+
+![](../images/Paper%20Places.png)
+
 ### Parallel
 
-**Longest episode:** Episode 41 A Tech Year in Review (1:28:59)  
+**Longest episode:** Episode 93 The Last Show (1:30:20)  
 **Shortest episode:** Episode 0 Introducing Parallel (0:06:48)  
 
 ![](../images/Parallel.png)
@@ -280,7 +280,7 @@
 ### Reconcilable Differences
 
 **Longest episode:** Episode 25 Zarro Droogs (3:21:09)  
-**Shortest episode:** Episode 128 Ciao, Francesco Rinaldi! (1:04:46)  
+**Shortest episode:** Episode 233 Monkeys in the Hose (0:56:56)  
 
 ![](../images/Reconcilable%20Differences.png)
 
@@ -300,7 +300,7 @@
 
 ### Rocket
 
-**Longest episode:** Episode 411 TWiT Takeover! (1:39:55)  
+**Longest episode:** Episode 470 Terminated (2:00:21)  
 **Shortest episode:** Episode 315 Trump’s Twitter Ban (0:21:25)  
 
 ![](../images/Rocket.png)
@@ -314,7 +314,7 @@
 
 ### The Backmarkers
 
-**Longest episode:** Episode 9 British Grand Prix Review (1:12:14)  
+**Longest episode:** Episode 29 2024 Season Preview (1:23:05)  
 **Shortest episode:** Episode 8 Canadian Grand Prix Review (0:37:06)  
 
 ![](../images/The%20Backmarkers.png)
@@ -342,7 +342,7 @@
 
 ### Thoroughly Considered
 
-**Longest episode:** Episode 86 Merciless Fundraising (1:13:37)  
+**Longest episode:** Episode 123 The Last Detail with John Siracusa (1:20:51)  
 **Shortest episode:** Episode 1 Introductions (0:20:55)  
 
 ![](../images/Thoroughly%20Considered.png)
@@ -357,7 +357,7 @@
 ### Under the Radar
 
 **Longest episode:** Episode 244 WWDC 2022 Special (0:44:34)  
-**Shortest episode:** Episode 177 Operating in a Hostile Environment (0:00:49)  
+**Shortest episode:** Episode 5 Managing Feedback (0:25:30)  
 
 ![](../images/Under%20the%20Radar.png)
 
@@ -371,7 +371,7 @@
 ### Upgrade
 
 **Longest episode:** Episode 332 The 2020 Upgradies (2:34:11)  
-**Shortest episode:** Episode 277 Who Killed the Butterfly Keyboard? (0:34:16)  
+**Shortest episode:** Episode 483 The 2023 October Event Draft (0:27:42)  
 
 ![](../images/Upgrade.png)
 
