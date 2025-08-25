@@ -104,7 +104,12 @@ class FeedInfos(list):
 def get_show_episode_durations(feed_url):
     feed_infos = FeedInfos()
     feed = feedparser.parse(feed_url)
-    title = feed.channel.title
+    try:
+        title = feed.channel.title
+    except Exception as e:
+        print("Unable to get feed title", feed_url, feed.channel)
+        raise e
+    
     if title in EPISODE_EXCLUDE_LIST:
         return None
 

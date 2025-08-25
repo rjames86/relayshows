@@ -34,10 +34,13 @@ all_networks = [
     PodcastNetwork('Relay FM', get_relay_data()),
     PodcastNetwork('ATP', ['https://cdn.atp.fm/rss/public']),
     PodcastNetwork('Incomparable', get_incomperable_data()),
+    PodcastNetwork('The Talk Show', ['https://daringfireball.net/thetalkshow/rss']),
 ]
 
 for network in all_networks:
+    print("Processing network", network.name)
     for show in network.show_durations:
+        print("  Show:", show.title())
         chart_show(show)
 
 update_readme(all_networks)
