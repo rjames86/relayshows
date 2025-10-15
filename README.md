@@ -1,6 +1,6 @@
 # Podcast Network Stats
 
-*Last updated on:* 2025-10-14 00:55
+*Last updated on:* 2025-10-15 00:57
 
 This displays the normal distribution for each show on the network. Data will be updated daily at midnight.
 
