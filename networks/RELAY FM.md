@@ -293,7 +293,7 @@
 
 ### Roboism
 
-**Longest episode:** Episode 36 You Have a Patina (1:23:50)  
+**Longest episode:** Episode 74 Who Knew Fascism Would Be the -ism? (1:24:13)  
 **Shortest episode:** Episode 13 Information Pores (0:21:04)  
 
 ![](../images/Roboism.png)
