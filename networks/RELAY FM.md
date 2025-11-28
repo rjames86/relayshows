@@ -217,7 +217,7 @@
 ### Material
 
 **Longest episode:** Episode 411 The AI Message (1:55:21)  
-**Shortest episode:** Episode 26 Mint Condition (0:30:32)  
+**Shortest episode:** Episode 544 Something That’s Attainable (0:29:55)  
 
 ![](../images/Material.png)
 
