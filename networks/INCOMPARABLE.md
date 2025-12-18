@@ -62,7 +62,7 @@
 
 **Network's longest episode:** Sophomore Lit - Episode 93 Mrs. Dalloway (4:32:08)
 
-**Network's shortest episode:** Tim Goodman's TV Talk Machine - Episode 256 A Holiday Visit from Tim Goodman (0:00:00)
+**Network's shortest episode:** Tim Goodman's TV Talk Machine - Episode 257 Another Holiday Visit from Tim Goodman (0:00:00)
 
 ### A Complicated Profession: "Star Wars" on TV
 
@@ -417,7 +417,7 @@
 ### Tim Goodman's TV Talk Machine
 
 **Longest episode:** Episode 32 Green Brains & Ham (1:22:56)  
-**Shortest episode:** Episode 256 A Holiday Visit from Tim Goodman (0:00:00)  
+**Shortest episode:** Episode 257 Another Holiday Visit from Tim Goodman (0:00:00)  
 
 ![](../images/Tim%20Goodman%27s%20TV%20Talk%20Machine.png)
 
