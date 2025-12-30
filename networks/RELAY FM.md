@@ -370,7 +370,7 @@
 
 ### Upgrade
 
-**Longest episode:** Episode 332 The 2020 Upgradies (2:34:11)  
+**Longest episode:** Episode 596 The 2025 Upgradies (2:38:02)  
 **Shortest episode:** Episode 483 The 2023 October Event Draft (0:27:42)  
 
 ![](../images/Upgrade.png)
