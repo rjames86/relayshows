@@ -62,7 +62,7 @@
 
 **Network's longest episode:** Sophomore Lit - Episode 93 Mrs. Dalloway (4:32:08)
 
-**Network's shortest episode:** Tim Goodman's TV Talk Machine - Episode 257 Another Holiday Visit from Tim Goodman (0:00:00)
+**Network's shortest episode:** Defocused - Episode 380 Peter Piper Picked a Pack of Pickled Popes (0:00:00)
 
 ### A Complicated Profession: "Star Wars" on TV
 
@@ -151,7 +151,7 @@
 ### Defocused
 
 **Longest episode:** Episode 88 Old People Problems (3:10:52)  
-**Shortest episode:** Episode 78 Defocused: 2015  Year in Review (0:19:11)  
+**Shortest episode:** Episode 380 Peter Piper Picked a Pack of Pickled Popes (0:00:00)  
 
 ![](../images/Defocused.png)
 
