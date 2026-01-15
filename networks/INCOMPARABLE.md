@@ -458,7 +458,7 @@
 
 ### We Contain Multitudes
 
-**Longest episode:** Episode 0 Hello! (0:00:37)  
+**Longest episode:** Episode 1 Premee Mohamed - The Bugge (0:33:06)  
 **Shortest episode:** Episode 0 Hello! (0:00:37)  
 
 ![](../images/We%20Contain%20Multitudes.png)
