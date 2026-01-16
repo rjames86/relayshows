@@ -133,7 +133,7 @@
 ### Cortex
 
 **Longest episode:** Episode 135 State of the Apps 2023 (3:22:00)  
-**Shortest episode:** Episode 30 Cortexaversary (1:07:24)  
+**Shortest episode:** Episode 175 Technology Connections – State of the Workflow (1:04:03)  
 
 ![](../images/Cortex.png)
 
