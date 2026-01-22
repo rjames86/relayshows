@@ -357,7 +357,7 @@
 ### Under the Radar
 
 **Longest episode:** Episode 244 WWDC 2022 Special (0:44:34)  
-**Shortest episode:** Episode 5 Managing Feedback (0:25:29)  
+**Shortest episode:** Episode 5 Managing Feedback (0:25:30)  
 
 ![](../images/Under%20the%20Radar.png)
 
