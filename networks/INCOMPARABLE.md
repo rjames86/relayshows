@@ -458,14 +458,14 @@
 
 ### We Contain Multitudes
 
-**Longest episode:** Episode 2 Mary Robinette Kowal - The Renaissance Woman (0:45:32)  
+**Longest episode:** Episode 3 Olivia Dade - The Analogista (1:08:37)  
 **Shortest episode:** Episode 0 Hello! (0:00:37)  
 
 ![](../images/We%20Contain%20Multitudes.png)
 
 ### Where or When
 
-**Longest episode:** Episode 07 There's No Love Song Finer (0:00:00)  
-**Shortest episode:** Episode 07 There's No Love Song Finer (0:00:00)  
+**Longest episode:** Episode 02 The Charge of the Abraham Lincoln Brigade (0:32:00)  
+**Shortest episode:** Episode 03 The Sun is the Same in a Relative Way (0:23:28)  
 
 ![](../images/Where%20or%20When.png)
