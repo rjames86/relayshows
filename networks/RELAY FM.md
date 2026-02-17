@@ -133,7 +133,7 @@
 ### Cortex
 
 **Longest episode:** Episode 135 State of the Apps 2023 (3:22:00)  
-**Shortest episode:** Episode 175 Technology Connections – State of the Workflow (1:04:03)  
+**Shortest episode:** Episode 176 Going From a Newsroom to Being Independent, With Becca Farsace (0:54:29)  
 
 ![](../images/Cortex.png)
 
