@@ -28,7 +28,7 @@
 - [Magnum, podcast - revisiting "Magnum P.I."](#Magnum-podcast--revisiting-Magnum-PI)  
 - [Monty and Rhias vs. Movies](#Monty-and-Rhias-vs-Movies)  
 - [Myke at the Movies](#Myke-at-the-Movies)  
-- [NASA Vending Machine (watching "For All Mankind")](#NASA-Vending-Machine-watching-For-All-Mankind)  
+- [NASA Vending Machine (watching "For All Mankind" and "Star City")](#NASA-Vending-Machine-watching-For-All-Mankind-and-Star-City)  
 - [Not Playing with Lex and Dan](#Not-Playing-with-Lex-and-Dan)  
 - [Pants in the Boot](#Pants-in-the-Boot)  
 - [Phil and Lisa Ruin the Movies](#Phil-and-Lisa-Ruin-the-Movies)  
@@ -253,12 +253,12 @@
 
 ![](../images/Myke%20at%20the%20Movies.png)
 
-### NASA Vending Machine (watching "For All Mankind")
+### NASA Vending Machine (watching "For All Mankind" and "Star City")
 
 **Longest episode:** "The Gray" (S2E10) (1:02:06)  
 **Shortest episode:** Episode 16 "New Eden" (S3E6) (0:28:24)  
 
-![](../images/NASA%20Vending%20Machine%20%28watching%20%22For%20All%20Mankind%22%29.png)
+![](../images/NASA%20Vending%20Machine%20%28watching%20%22For%20All%20Mankind%22%20and%20%22Star%20City%22%29.png)
 
 ### Not Playing with Lex and Dan
 
