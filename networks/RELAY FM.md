@@ -110,7 +110,7 @@
 
 ### Clockwise
 
-**Longest episode:** Episode 68 Genuine Frontier Gibberish (0:46:21)  
+**Longest episode:** Episode 650 Softest Panel in the World (0:49:14)  
 **Shortest episode:** Episode 346 Beyoncé in Space! (0:22:51)  
 
 ![](../images/Clockwise.png)
