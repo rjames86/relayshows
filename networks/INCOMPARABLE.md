@@ -368,7 +368,7 @@
 ### The Incomparable Game Show
 
 **Longest episode:** Episode 3 Tennis with Errol Flynn (2:23:21)  
-**Shortest episode:** Episode 8 Je Suis La Poire (0:30:24)  
+**Shortest episode:** Episode 280 How Long Do We Have To Do This? (0:26:34)  
 
 ![](../images/The%20Incomparable%20Game%20Show.png)
 
