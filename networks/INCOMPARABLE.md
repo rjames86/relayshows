@@ -256,7 +256,7 @@
 ### NASA Vending Machine (watching "For All Mankind" and "Star City")
 
 **Longest episode:** "The Gray" (S2E10) (1:02:06)  
-**Shortest episode:** Episode 16 "New Eden" (S3E6) (0:28:24)  
+**Shortest episode:** Episode 36 "Svoboda" (S5E5) (0:27:24)  
 
 ![](../images/NASA%20Vending%20Machine%20%28watching%20%22For%20All%20Mankind%22%20and%20%22Star%20City%22%29.png)
 
