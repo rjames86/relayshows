@@ -19,6 +19,7 @@
 - [Flashback](#Flashback)  
 - [Focused](#Focused)  
 - [Inquisitive](#Inquisitive)  
+- [Intentional AI](#Intentional-AI)  
 - [Isometric](#Isometric)  
 - [Less Than or Equal](#Less-Than-or-Equal)  
 - [Liftoff](#Liftoff)  
@@ -177,6 +178,13 @@
 **Shortest episode:** Episode 33 Behind the App #7: Identity (0:26:22)  
 
 ![](../images/Inquisitive.png)
+
+### Intentional AI
+
+**Longest episode:** Episode 1 Anyone Can Cook (0:29:57)  
+**Shortest episode:** Episode 1 Anyone Can Cook (0:29:57)  
+
+![](../images/Intentional%20AI.png)
 
 ### Isometric
 
