@@ -62,7 +62,7 @@
 
 **Network's longest episode:** Sophomore Lit - Episode 93 Mrs. Dalloway (4:32:08)
 
-**Network's shortest episode:** Tim Goodman's TV Talk Machine - Episode 257 Another Holiday Visit from Tim Goodman (0:00:00)
+**Network's shortest episode:** Pod4Ham - Every song from the musical Hamilton - Episode 20b Tony Awards special (0:00:00)
 
 ### A Complicated Profession: "Star Wars" on TV
 
@@ -123,7 +123,7 @@
 ### Bonus Track
 
 **Longest episode:** Episode 247b David Letterman Interviews (3:25:42)  
-**Shortest episode:** Episode 347b Insert Star Wars Teaser Reaction Here (0:01:04)  
+**Shortest episode:** Episode a3 You Asked Fourble It, You Got It (0:01:48)  
 
 ![](../images/Bonus%20Track.png)
 
@@ -284,7 +284,7 @@
 ### Pod4Ham - Every song from the musical Hamilton
 
 **Longest episode:** Episode 46b Disney+ Descriptive Audio (2:35:47)  
-**Shortest episode:** Episode 12 You Are the Worst, Burr (0:11:17)  
+**Shortest episode:** Episode 20b Tony Awards special (0:00:00)  
 
 ![](../images/Pod4Ham%20-%20Every%20song%20from%20the%20musical%20Hamilton.png)
 
