@@ -181,7 +181,7 @@
 
 ### Intentional AI
 
-**Longest episode:** Episode 2 The Useful Architecture + Siri AI (0:46:25)  
+**Longest episode:** Episode 3 Context is King (0:52:51)  
 **Shortest episode:** Episode 1 Anyone Can Cook (0:29:57)  
 
 ![](../images/Intentional%20AI.png)
