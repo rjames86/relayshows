@@ -13,6 +13,7 @@
 - [Conduit](#Conduit)  
 - [Connected](#Connected)  
 - [Cortex](#Cortex)  
+- [Debug](#Debug)  
 - [Disruption](#Disruption)  
 - [Download](#Download)  
 - [Downstream](#Downstream)  
@@ -38,6 +39,7 @@
 - [Remaster](#Remaster)  
 - [Roboism](#Roboism)  
 - [Rocket](#Rocket)  
+- [Simple Beep](#Simple-Beep)  
 - [The Backmarkers](#The-Backmarkers)  
 - [The Pen Addict](#The-Pen-Addict)  
 - [The Prompt](#The-Prompt)  
@@ -136,6 +138,13 @@
 **Shortest episode:** Episode 176 Going From a Newsroom to Being Independent, With Becca Farsace (0:54:29)  
 
 ![](../images/Cortex.png)
+
+### Debug
+
+**Longest episode:** Episode 60 Melton & Ganatra episode III: Shipping software (3:09:52)  
+**Shortest episode:** Episode 18 WWDC 2013 live (0:37:30)  
+
+![](../images/Debug.png)
 
 ### Disruption
 
@@ -311,6 +320,13 @@
 **Shortest episode:** Episode 315 Trump’s Twitter Ban (0:21:25)  
 
 ![](../images/Rocket.png)
+
+### Simple Beep
+
+**Longest episode:** Episode 14 The History of iTunes, part 2 (2:02:39)  
+**Shortest episode:** Episode 4 Merryxmas (0:25:06)  
+
+![](../images/Simple%20Beep.png)
 
 ### The Backmarkers
 
