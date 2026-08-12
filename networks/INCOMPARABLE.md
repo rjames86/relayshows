@@ -179,7 +179,7 @@
 ### Football is Life! - Watching "Ted Lasso"
 
 **Longest episode:** Episode 3 "Trent Crimm: The Independent" Rewatch (S1E3) (1:37:58)  
-**Shortest episode:** Episode 30 "The Strings that Bind Us" (S3E7) (0:44:00)  
+**Shortest episode:** Episode 36 "Home" (S4E1) (0:39:12)  
 
 ![](../images/Football%20is%20Life%21%20-%20Watching%20%22Ted%20Lasso%22.png)
 
