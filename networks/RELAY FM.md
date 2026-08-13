@@ -190,7 +190,7 @@
 
 ### Intentional AI
 
-**Longest episode:** Episode 3 Context is King (0:52:51)  
+**Longest episode:** Episode 6 Sparky’s AI Email Odyssey (0:57:38)  
 **Shortest episode:** Episode 1 Anyone Can Cook (0:29:57)  
 
 ![](../images/Intentional%20AI.png)
