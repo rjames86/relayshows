@@ -417,7 +417,7 @@
 ### Tim Goodman's TV Talk Machine
 
 **Longest episode:** Episode 32 Green Brains & Ham (1:22:56)  
-**Shortest episode:** Episode 257 Another Holiday Visit from Tim Goodman (0:00:00)  
+**Shortest episode:** Episode 66 Death March With Cocktails - Spike Lee (0:04:01)  
 
 ![](../images/Tim%20Goodman%27s%20TV%20Talk%20Machine.png)
 
