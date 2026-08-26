@@ -14,6 +14,7 @@
 - [Connected](#Connected)  
 - [Cortex](#Cortex)  
 - [Debug](#Debug)  
+- [Designed in California](#Designed-in-California)  
 - [Disruption](#Disruption)  
 - [Download](#Download)  
 - [Downstream](#Downstream)  
@@ -145,6 +146,13 @@
 **Shortest episode:** Episode 18 WWDC 2013 live (0:37:30)  
 
 ![](../images/Debug.png)
+
+### Designed in California
+
+**Longest episode:** Episode 0 The Origin of Apple (1:34:57)  
+**Shortest episode:** Episode 4 Road to the Apple II: Computer Faire (Part 4) (0:29:21)  
+
+![](../images/Designed%20in%20California.png)
 
 ### Disruption
 
