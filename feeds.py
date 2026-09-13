@@ -59,7 +59,12 @@ class FeedInfo:
     @staticmethod
     def get_seconds_from_string(time_str):
         """Get seconds from time."""
+
+        if not time_str:
+            return 0
+
         time_parts = time_str.split(':')
+
         if len(time_parts) == 3:
             h, m, s = time_parts
         else:
