@@ -62,7 +62,7 @@
 
 **Network's longest episode:** Sophomore Lit - Episode 93 Mrs. Dalloway (4:32:08)
 
-**Network's shortest episode:** Tim Goodman's TV Talk Machine - Episode 257 Another Holiday Visit from Tim Goodman (0:00:00)
+**Network's shortest episode:** Pod4Ham - Every song from the musical Hamilton - Episode 20b Tony Awards special (0:00:00)
 
 ### A Complicated Profession: "Star Wars" on TV
 
@@ -123,7 +123,7 @@
 ### Bonus Track
 
 **Longest episode:** Episode 247b David Letterman Interviews (3:25:42)  
-**Shortest episode:** Episode 347b Insert Star Wars Teaser Reaction Here (0:01:04)  
+**Shortest episode:** Episode a3 You Asked Fourble It, You Got It (0:01:48)  
 
 ![](../images/Bonus%20Track.png)
 
@@ -179,7 +179,7 @@
 ### Football is Life! - Watching "Ted Lasso"
 
 **Longest episode:** Episode 3 "Trent Crimm: The Independent" Rewatch (S1E3) (1:37:58)  
-**Shortest episode:** Episode 30 "The Strings that Bind Us" (S3E7) (0:44:00)  
+**Shortest episode:** Episode 36 "Home" (S4E1) (0:39:12)  
 
 ![](../images/Football%20is%20Life%21%20-%20Watching%20%22Ted%20Lasso%22.png)
 
@@ -256,7 +256,7 @@
 ### NASA Vending Machine (watching "For All Mankind" and "Star City")
 
 **Longest episode:** Episode 41 "This Land Is Our Land" (S5E10) (1:08:06)  
-**Shortest episode:** Episode 36 "Svoboda" (S5E5) (0:27:24)  
+**Shortest episode:** Episode 47 "Awl in a Sack" (Star City S1E6) (0:23:54)  
 
 ![](../images/NASA%20Vending%20Machine%20%28watching%20%22For%20All%20Mankind%22%20and%20%22Star%20City%22%29.png)
 
@@ -284,7 +284,7 @@
 ### Pod4Ham - Every song from the musical Hamilton
 
 **Longest episode:** Episode 46b Disney+ Descriptive Audio (2:35:47)  
-**Shortest episode:** Episode 12 You Are the Worst, Burr (0:11:17)  
+**Shortest episode:** Episode 20b Tony Awards special (0:00:00)  
 
 ![](../images/Pod4Ham%20-%20Every%20song%20from%20the%20musical%20Hamilton.png)
 
@@ -417,7 +417,7 @@
 ### Tim Goodman's TV Talk Machine
 
 **Longest episode:** Episode 32 Green Brains & Ham (1:22:56)  
-**Shortest episode:** Episode 257 Another Holiday Visit from Tim Goodman (0:00:00)  
+**Shortest episode:** Episode 66 Death March With Cocktails - Spike Lee (0:04:01)  
 
 ![](../images/Tim%20Goodman%27s%20TV%20Talk%20Machine.png)
 

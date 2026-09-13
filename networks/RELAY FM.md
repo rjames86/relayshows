@@ -13,12 +13,15 @@
 - [Conduit](#Conduit)  
 - [Connected](#Connected)  
 - [Cortex](#Cortex)  
+- [Debug](#Debug)  
+- [Designed in California](#Designed-in-California)  
 - [Disruption](#Disruption)  
 - [Download](#Download)  
 - [Downstream](#Downstream)  
 - [Flashback](#Flashback)  
 - [Focused](#Focused)  
 - [Inquisitive](#Inquisitive)  
+- [Intentional AI](#Intentional-AI)  
 - [Isometric](#Isometric)  
 - [Less Than or Equal](#Less-Than-or-Equal)  
 - [Liftoff](#Liftoff)  
@@ -37,6 +40,7 @@
 - [Remaster](#Remaster)  
 - [Roboism](#Roboism)  
 - [Rocket](#Rocket)  
+- [Simple Beep](#Simple-Beep)  
 - [The Backmarkers](#The-Backmarkers)  
 - [The Pen Addict](#The-Pen-Addict)  
 - [The Prompt](#The-Prompt)  
@@ -136,6 +140,20 @@
 
 ![](../images/Cortex.png)
 
+### Debug
+
+**Longest episode:** Episode 60 Melton & Ganatra episode III: Shipping software (3:09:52)  
+**Shortest episode:** Episode 18 WWDC 2013 live (0:37:30)  
+
+![](../images/Debug.png)
+
+### Designed in California
+
+**Longest episode:** Episode 0 The Origin of Apple (1:34:57)  
+**Shortest episode:** Episode 4 Road to the Apple II: Computer Faire (Part 4) (0:29:21)  
+
+![](../images/Designed%20in%20California.png)
+
 ### Disruption
 
 **Longest episode:** Episode 28 Breakdancing Surgeons (1:27:12)  
@@ -177,6 +195,13 @@
 **Shortest episode:** Episode 33 Behind the App #7: Identity (0:26:22)  
 
 ![](../images/Inquisitive.png)
+
+### Intentional AI
+
+**Longest episode:** Episode 6 Sparky’s AI Email Odyssey (0:57:38)  
+**Shortest episode:** Episode 1 Anyone Can Cook (0:29:57)  
+
+![](../images/Intentional%20AI.png)
 
 ### Isometric
 
@@ -303,6 +328,13 @@
 **Shortest episode:** Episode 315 Trump’s Twitter Ban (0:21:25)  
 
 ![](../images/Rocket.png)
+
+### Simple Beep
+
+**Longest episode:** Episode 14 The History of iTunes, part 2 (2:02:39)  
+**Shortest episode:** Episode 4 Merryxmas (0:25:06)  
+
+![](../images/Simple%20Beep.png)
 
 ### The Backmarkers
 
