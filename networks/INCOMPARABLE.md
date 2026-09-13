@@ -15,6 +15,7 @@
 - [Corner of the Sky](#Corner-of-the-Sky)  
 - [Defocused](#Defocused)  
 - [Doctor Who Flashcast](#Doctor-Who-Flashcast)  
+- [Doctor Who: Verity!](#Doctor-Who-Verity)  
 - [Dragonmount: The Wheel of Time Podcast](#Dragonmount-The-Wheel-of-Time-Podcast)  
 - [Earp Chirp: Alberta's Wynonna Earp podcast](#Earp-Chirp-Albertas-Wynonna-Earp-podcast)  
 - [Football is Life! - Watching "Ted Lasso"](#Football-is-Life--Watching-Ted-Lasso)  
@@ -161,6 +162,13 @@
 **Shortest episode:** “Curse of the Black Spot.” (S6E3) (The Incomparable 38) (0:24:50)  
 
 ![](../images/Doctor%20Who%20Flashcast.png)
+
+### Doctor Who: Verity!
+
+**Longest episode:** Episode 49 Into the Deep Breath (1:54:17)  
+**Shortest episode:** Episode 0 Teaser (0:01:51)  
+
+![](../images/Doctor%20Who%3A%20Verity%21.png)
 
 ### Dragonmount: The Wheel of Time Podcast
 

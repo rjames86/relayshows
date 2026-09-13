@@ -54,7 +54,7 @@
 
 **Network's longest episode:** Cortex - Episode 135 State of the Apps 2023 (3:22:00)
 
-**Network's shortest episode:** Ungeniused - Episode 173 Seven Swans A-swimming (0:00:12)
+**Network's shortest episode:** Clockwise - Episode 672 OnlyMolars (0:00:00)
 
 ### 20 Macs
 
@@ -115,7 +115,7 @@
 ### Clockwise
 
 **Longest episode:** Episode 650 Softest Panel in the World (0:49:14)  
-**Shortest episode:** Episode 346 Beyoncé in Space! (0:22:51)  
+**Shortest episode:** Episode 672 OnlyMolars (0:00:00)  
 
 ![](../images/Clockwise.png)
 
@@ -198,7 +198,7 @@
 
 ### Intentional AI
 
-**Longest episode:** Episode 6 Sparky’s AI Email Odyssey (0:57:38)  
+**Longest episode:** Episode 8 Whisper to Write (1:01:32)  
 **Shortest episode:** Episode 1 Anyone Can Cook (0:29:57)  
 
 ![](../images/Intentional%20AI.png)
