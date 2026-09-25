@@ -63,19 +63,19 @@
 
 **Network's longest episode:** Sophomore Lit - Episode 93 Mrs. Dalloway (4:32:08)
 
-**Network's shortest episode:** Pod4Ham - Every song from the musical Hamilton - Episode 20b Tony Awards special (0:00:00)
+**Network's shortest episode:** Pod4Ham - Every song from the musical Hamilton - Tony Awards special (0:00:00)
 
 ### A Complicated Profession: "Star Wars" on TV
 
 **Longest episode:** Episode 102 Chek(h)ov's Hospital (1:46:28)  
-**Shortest episode:** Episode 0 Coming Soon: The Bad Batch (0:01:48)  
+**Shortest episode:** Coming Soon: The Bad Batch (0:01:48)  
 
 ![](../images/A%20Complicated%20Profession%3A%20%22Star%20Wars%22%20on%20TV.png)
 
 ### A Legitimate Salvage (The Expanse)
 
 **Longest episode:** Episode 5 "Critical Mass" and "Leviathan Wakes" (1:09:43)  
-**Shortest episode:** Episode 0 Coming Soon: A Legitimate Salvage (0:01:10)  
+**Shortest episode:** Coming Soon: A Legitimate Salvage (0:01:10)  
 
 ![](../images/A%20Legitimate%20Salvage%20%28The%20Expanse%29.png)
 
@@ -110,7 +110,7 @@
 ### Beginner's Puck - A podcast for hockey fans new and old
 
 **Longest episode:** Episode 35 From Pucks and Sticks to Analytics (1:20:00)  
-**Shortest episode:** Episode 36a Short Shift - Erika (0:01:50)  
+**Shortest episode:** Short Shift - Erika (0:01:50)  
 
 ![](../images/Beginner%27s%20Puck%20-%20A%20podcast%20for%20hockey%20fans%20new%20and%20old.png)
 
@@ -123,8 +123,8 @@
 
 ### Bonus Track
 
-**Longest episode:** Episode 247b David Letterman Interviews (3:25:42)  
-**Shortest episode:** Episode a3 You Asked Fourble It, You Got It (0:01:48)  
+**Longest episode:** David Letterman Interviews (3:25:42)  
+**Shortest episode:** You Asked Fourble It, You Got It (0:01:48)  
 
 ![](../images/Bonus%20Track.png)
 
@@ -145,7 +145,7 @@
 ### Corner of the Sky
 
 **Longest episode:** Episode 25 Moist and Worried (1:34:40)  
-**Shortest episode:** Episode 0 Welcome to Corner of the Sky (0:02:21)  
+**Shortest episode:** Welcome to Corner of the Sky (0:02:21)  
 
 ![](../images/Corner%20of%20the%20Sky.png)
 
@@ -166,7 +166,7 @@
 ### Doctor Who: Verity!
 
 **Longest episode:** Episode 49 Into the Deep Breath (1:54:17)  
-**Shortest episode:** Episode 0 Teaser (0:01:51)  
+**Shortest episode:** Teaser (0:01:51)  
 
 ![](../images/Doctor%20Who%3A%20Verity%21.png)
 
@@ -187,7 +187,7 @@
 ### Football is Life! - Watching "Ted Lasso"
 
 **Longest episode:** Episode 3 "Trent Crimm: The Independent" Rewatch (S1E3) (1:37:58)  
-**Shortest episode:** Episode 42 "Yes & Baby" (S4E7) (0:35:19)  
+**Shortest episode:** Episode 43 "Follow the Anger" (S4E8) (0:33:40)  
 
 ![](../images/Football%20is%20Life%21%20-%20Watching%20%22Ted%20Lasso%22.png)
 
@@ -215,7 +215,7 @@
 ### I Want My M(CU)TV: Talking Marvel's New TV Shows
 
 **Longest episode:** WandaVision S1E9 Review: "The Series Finale" (TeeVee 697) (1:50:07)  
-**Shortest episode:** Episode 36 "Moon Knight" Episode 2 (0:37:57)  
+**Shortest episode:** Episode 36 &quot;Moon Knight&quot; Episode 2 (0:37:57)  
 
 ![](../images/I%20Want%20My%20M%28CU%29TV%3A%20Talking%20Marvel%27s%20New%20TV%20Shows.png)
 
@@ -291,8 +291,8 @@
 
 ### Pod4Ham - Every song from the musical Hamilton
 
-**Longest episode:** Episode 46b Disney+ Descriptive Audio (2:35:47)  
-**Shortest episode:** Episode 20b Tony Awards special (0:00:00)  
+**Longest episode:** Disney+ Descriptive Audio (2:35:47)  
+**Shortest episode:** Tony Awards special (0:00:00)  
 
 ![](../images/Pod4Ham%20-%20Every%20song%20from%20the%20musical%20Hamilton.png)
 
@@ -355,14 +355,14 @@
 ### Sorkin' In It: The Films & Television of Aaron Sorkin
 
 **Longest episode:** Episode 5 The Social Network (0:49:19)  
-**Shortest episode:** Episode 0 Sorkin' in It: Trailer (0:06:25)  
+**Shortest episode:** Sorkin' in It: Trailer (0:06:25)  
 
 ![](../images/Sorkin%27%20In%20It%3A%20The%20Films%20%26%20Television%20of%20Aaron%20Sorkin.png)
 
 ### TeeVee
 
 **Longest episode:** Episode 382 The Punisher War Journal: Episodes 10-13 (2:32:58)  
-**Shortest episode:** Episode PSA 'Vulcan Hello' and 'Biff' aren't here! (0:01:48)  
+**Shortest episode:** 'Vulcan Hello' and 'Biff' aren't here! (0:01:48)  
 
 ![](../images/TeeVee.png)
 
@@ -390,14 +390,14 @@
 ### The Incomparable Radio Theater
 
 **Longest episode:** Episode 11 The Adventures of Timmy Preston in Farfutureland (0:50:30)  
-**Shortest episode:** Episode 0 Season 2 Teaser (0:02:13)  
+**Shortest episode:** Season 2 Teaser (0:02:13)  
 
 ![](../images/The%20Incomparable%20Radio%20Theater.png)
 
 ### The Ring Post - an occasional wrestling podcast
 
 **Longest episode:** Episode 19 There's a Lot of Wrestling (1:53:00)  
-**Shortest episode:** Episode 0 Introduction (0:02:42)  
+**Shortest episode:** Introduction (0:02:42)  
 
 ![](../images/The%20Ring%20Post%20-%20an%20occasional%20wrestling%20podcast.png)
 
@@ -418,7 +418,7 @@
 ### This Week in Time Travel
 
 **Longest episode:** Episode 17 Red White (and Orange and Yellow and Blue) and Who (1:35:06)  
-**Shortest episode:** Episode 0 Coming Soon... (0:01:05)  
+**Shortest episode:** Coming Soon... (0:01:05)  
 
 ![](../images/This%20Week%20in%20Time%20Travel.png)
 
@@ -446,7 +446,7 @@
 ### Voyager Revisited
 
 **Longest episode:** Episode 32 We'll Always Have Unimatrix Zero (The Two-Parters) (1:03:29)  
-**Shortest episode:** Episode 0 Voyager Revisited Launches (0:01:57)  
+**Shortest episode:** Voyager Revisited Launches (0:01:57)  
 
 ![](../images/Voyager%20Revisited.png)
 
@@ -467,13 +467,13 @@
 ### We Contain Multitudes
 
 **Longest episode:** Episode 3 Olivia Dade - The Analogista (1:08:37)  
-**Shortest episode:** Episode 0 Hello! (0:00:37)  
+**Shortest episode:** Hello! (0:00:37)  
 
 ![](../images/We%20Contain%20Multitudes.png)
 
 ### Where or When
 
-**Longest episode:** Episode 02 The Charge of the Abraham Lincoln Brigade (0:32:00)  
-**Shortest episode:** Episode 03 The Sun is the Same in a Relative Way (0:23:28)  
+**Longest episode:** The Charge of the Abraham Lincoln Brigade (0:32:00)  
+**Shortest episode:** The Sun is the Same in a Relative Way (0:23:28)  
 
 ![](../images/Where%20or%20When.png)
