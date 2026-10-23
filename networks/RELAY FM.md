@@ -317,7 +317,7 @@
 
 ### Roboism
 
-**Longest episode:** Episode 74 Who Knew Fascism Would Be the -ism? (1:24:13)  
+**Longest episode:** Episode 82 Don’t Get in the Ball Pit (1:35:45)  
 **Shortest episode:** Episode 13 Information Pores (0:21:04)  
 
 ![](../images/Roboism.png)
@@ -381,7 +381,7 @@
 ### Under the Radar
 
 **Longest episode:** Episode 244 WWDC 2022 Special (0:44:34)  
-**Shortest episode:** Episode 5 Managing Feedback (0:25:29)  
+**Shortest episode:** Episode 332 Relaunching Developing Perspective (0:03:15)  
 
 ![](../images/Under%20the%20Radar.png)
 
