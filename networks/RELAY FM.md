@@ -227,7 +227,7 @@
 ### Mac Power Users
 
 **Longest episode:** Episode 100 Awesome MPU Listeners (2:26:39)  
-**Shortest episode:** Episode 2 All About E-Mail (Part 2) (0:22:15)  
+**Shortest episode:** Episode 872 The Mighty Mac mini (0:00:00)  
 
 ![](../images/Mac%20Power%20Users.png)
 
