@@ -466,7 +466,7 @@
 
 ### We Contain Multitudes
 
-**Longest episode:** Episode 3 Olivia Dade - The Analogista (1:08:37)  
+**Longest episode:** Episode 15 Lindsey Allen - The Swiftiest Adventurer (1:09:07)  
 **Shortest episode:** Hello! (0:00:37)  
 
 ![](../images/We%20Contain%20Multitudes.png)
