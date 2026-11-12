@@ -466,7 +466,7 @@
 
 ### We Contain Multitudes
 
-**Longest episode:** Episode 15 Lindsey Allen - The Swiftiest Adventurer (1:09:07)  
+**Longest episode:** Episode 16 Courtney Milan - The Chaos Empiricist (1:09:47)  
 **Shortest episode:** Hello! (0:00:37)  
 
 ![](../images/We%20Contain%20Multitudes.png)
